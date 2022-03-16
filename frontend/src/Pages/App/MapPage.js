@@ -94,6 +94,23 @@ const MapPage = (props) => {
           'fill-opacity': 0.4
         }
       }, firstSymbolId);
+      
+      map.current.addLayer({
+        'id': 'population',
+        'type': 'circle',
+        'source': 'urban-areas',
+        'paint': {
+          // Make circles larger as the user zooms from z12 to z22.
+          'circle-radius': {
+            'base': 1.75,
+            'stops': [
+              [12, 6],
+              [22, 30]
+            ]
+          },
+        }
+      });
+
     });
   }, []);
 
