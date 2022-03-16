@@ -50,6 +50,26 @@ const MapPage = (props) => {
       setLat(map.current.getCenter().lat.toFixed(4));
       setZoom(map.current.getZoom().toFixed(2));
     });
+
+    //Add demo heatmap once the map is loaded
+    map.current.on('load', () => {
+      map.current.addSource('earthquakes', {
+        type: 'geojson',
+        data: 'https://docs.mapbox.com/mapbox-gl-js/assets/earthquakes.geojson'
+      });
+
+      map.current.addLayer({
+        id: 'earthquakes',
+        source: 'earthquakes',
+        type: 'heatmap',
+        paint: {
+          'heatmap-radius': 30,
+          'heatmap-opacity': 0.75,
+          'heatmap-intensity': 0.9
+        },
+      });
+    });
+
   }, []);
 
   return (

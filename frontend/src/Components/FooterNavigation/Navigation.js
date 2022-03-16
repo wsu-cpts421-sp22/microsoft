@@ -21,10 +21,11 @@ const styles = {
     logoTitle: {
         fontSize: '33px',
         lineHeight: '54px',
-        color: 'white'
+        color: 'white',
     },
     inputs: {
-        width: '75%',
+        position: 'absolute',
+        right: '50px',
         height: '100%',
         display: 'flex',
         justifyContent: 'end',
@@ -43,7 +44,7 @@ const styles = {
     },
     titleSpan: {
         color: 'white',
-        fontWeight: 'bold',
+        fontWeight: '500',
     },
 };
 
