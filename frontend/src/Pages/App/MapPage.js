@@ -68,8 +68,33 @@ const MapPage = (props) => {
           'heatmap-intensity': 0.9
         },
       });
-    });
 
+      const layers = map.current.getStyle().layers;
+      // Find the index of the first symbol layer in the map style.
+      let firstSymbolId;
+      for (const layer of layers) {
+        if (layer.type === 'symbol') {
+          firstSymbolId = layer.id;
+          break;
+        }
+      }
+
+      map.current.addSource('urban-areas', {
+        'type': 'geojson',
+        'data': 'https://docs.mapbox.com/mapbox-gl-js/assets/ne_50m_urban_areas.geojson'
+      });
+        
+      map.current.addLayer({
+        'id': 'urban-areas-fill',
+        'type': 'fill',
+        'source': 'urban-areas',
+        'layout': {},
+        'paint': {
+          'fill-color': '#f08',
+          'fill-opacity': 0.4
+        }
+      }, firstSymbolId);
+    });
   }, []);
 
   return (
