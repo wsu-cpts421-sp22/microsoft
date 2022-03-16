@@ -1,6 +1,8 @@
 import mapboxGl from 'mapbox-gl';
 import { useEffect, useRef, useState } from 'react';
-import { FooterNavigation } from '../../Components/FooterNavigation/FooterNavigation';
+import { Navigation } from '../../Components/FooterNavigation/Navigation';
+import { MapMeta } from '../../Components/MapMeta/MapMeta';
+import { SupportedGasses } from '../../Constants/SupportedGasses';
 
 mapboxGl.accessToken = process.env.REACT_APP_MAPBOX_ACCESS_TOKEN;
 
@@ -16,7 +18,6 @@ const styles = {
   },
 };
 
-
 const MapPage = (props) => {
 
   //References
@@ -28,39 +29,34 @@ const MapPage = (props) => {
   const [lat, setLat] = useState(47.671947);
   const [zoom, setZoom] = useState(12);
 
-  //Temporary heat-map demo using MapBox provided GeoJson
-  const [earthquakes, setEarthQuakes] = useState(null);
+  //Visualize the selected gas
+  const [gas, setGas] = useState(SupportedGasses[0].key);
 
   //Initialize the map on component load
   useEffect(() => {
     if (map.current) return; // initialize map only once
+
+    //Initialize the map
     map.current = new mapboxGl.Map({
       container: mapContainer.current,
       style: 'mapbox://styles/mapbox/streets-v11',
       center: [lng, lat],
       zoom: zoom,
     });
+
+    //Update coordinates and zoom level when the map is changed
+    map.current.on('move', () => {
+      setLng(map.current.getCenter().lng.toFixed(4));
+      setLat(map.current.getCenter().lat.toFixed(4));
+      setZoom(map.current.getZoom().toFixed(2));
+    });
   }, []);
-
-  useEffect(() => {
-    /* global fetch */
-    fetch('https://docs.mapbox.com/mapbox-gl-js/assets/earthquakes.geojson')
-      .then(resp => resp.json())
-      .then(json => {
-        // Note: In a real application you would do a validation of JSON data before doing anything with it,
-        // but for demonstration purposes we ingore this part here and just trying to select needed data...
-        const features = json.features;
-
-        setEarthQuakes(json);
-      })
-      .catch(err => console.error('Could not load data', err)); // eslint-disable-line
-  }, []);
-
 
   return (
     <div style={styles.container}>
       <div style={styles.mapContainer} ref={mapContainer}></div>
-      <FooterNavigation />
+      <Navigation gas={gas} setGas={setGas} />
+      <MapMeta lat={lat} lng={lng} zoom={zoom} />
     </div>
   );
 }
