@@ -1,4 +1,4 @@
-# Report for Sprint # [sprint #]: *Team Name*
+# Report for Sprint 1: *Astronomalies*
 
 ## Link to Sprint Summary Video
 [Summary video link](https://youtube.com/)
