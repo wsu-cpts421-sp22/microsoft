@@ -8,11 +8,11 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
 *(If your working prototype is not deployed to the web, then provide instructions here for downloading/installing your prototype)*
 
 ## Team members
-1. **Team leader:** *name (GitHub Id)*
-1. *Team member 2 name (GitHub Id)*
-1. *Team member 3 name (GitHub Id)*
-1. *Team member 4 name (GitHub Id)*
-1. *Team member 5 name (GitHub Id)*
+1. **Team Leader:** *Michael Larson (larsomic)*
+1. *Khalil Daoud (KDaoud)*
+1. *Brian Lopez (brianlopezwsu)*
+1. *Eric Alvarez (Eric-Alz)*
+1. *Asher Handaly (asherhandalywsu)*
 
 ### Progress
 #### Issues, Points and Hours
@@ -22,17 +22,28 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
       <th colspan="2"></th><th colspan="6">Point & Hour Counts</th><th colspan="2"></th>
     </tr> 
     <tr>
-      <th>Issue</th><th>Linked PR</th><th>Total</th><th>TM1</th><th>TM2</th><th>TM3</th><th>TM4</th><th>TM5</th><th>% Complete</th><th>Notes</th>
+      <th>Issue</th><th>Linked PR</th><th>Total</th><th>Michael</th><th>Daoud</th><th>Brian</th><th>Asher</th><th>Eric</th><th>% Complete</th><th>Notes</th>
     </tr>
   </thead> 
   <tbody>
     <tr>
-      <td><a href="https://github.com/issue">Issue #</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>2.25</td><td>3<br/>1.5</td><td>1<br/>0.25</td><td>1<br/>0.5</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td></td>
+      <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/5">Issue 5</a></td><td><a href="https://github.com/PR">PR #</a></td><td>9<br/>2</td><td>2<br/>0.25</td><td>2<br/>0.5</td><td>3<br/>0.75</td><td>2<br/>0.5</td><td>0<br/>0</td><td>100</td><td>Project Report</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/issue">Issue #</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td>Updated database schema. Updated server routes. Did not implement UI.</td>
+     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/9">Issue 9</a></td><td><a href="https://github.com/PR">PR #</a></td><td>3<br/>2</td><td>1.5<br/>1</td>1.5<td>1<br>1.5</td><td><br/></td><td><br/></td><td><br/></td><td>100</td><td>Update and Peer Reviewed Decription Draft</td>
     </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>8</b></td><td><b>3</b></td><td><b>1</b></td><td><b>1</b></td><td><b>0.8</b></td><td><b>0.4</b></td><td colspan="2"></td>
+    <tr>
+     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/10">Issue 10</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>2</td><td><br/></td><td><br></td><td>2<br/>0.75</td><td>2<br/>0.75</td><td>1<br/>0.50</td><td>100</td><td>Update and Peer Reviewed Requirements Draft</td>
+    </tr>
+    <tr>
+     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/12">Issue 12</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>2</td><td><br/></td><td><br></td><td>2<br/>0.75</td><td>2<br/>0.75</td><td>1<br/>0.50</td><td>100</td><td>Frontend CI Tests</td>
+    </tr>
+    <tr>
+     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/13">Issue 13</a></td><td><a href="https://github.com/PR">PR #</a></td><td>3<br/>2</td><td><br/></td><td>1.5<br>1</td>1.5<td><br/></td><td>1.5<br/>1</td><td><br/></td><td>100</td><td>Sprint Video</td>
+    </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/15">Issue 15</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1<br/>1</td><td>1<br/>1</td><td><br></td><td><br/></td><td><br/></td><td><br/></td><td>100</td><td>Sprint Video</td>
+    </tr>
+    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>17</b></td><td><b>2.5</b></td><td><b>3</b></td><td><b>5</b></td><td><b>4</b></td><td><b>1</b></td><td colspan="2"></td>
     </tr>
   </tbody>
 </table>
@@ -40,11 +51,11 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
 #### Reflection Statements
 | Team Member | Contribution Reflection Statement |
 |-------------|-------------------|
-|TM1| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|TM2| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|TM3| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|TM4| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|TM5| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Michael| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Daoud| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Brian| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Asher| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Eric| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
 ### Testing
 
 |Issue | Test File | Feature Tested | Results Summary | 
@@ -61,17 +72,19 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
       <th></th><th colspan="6">Post/Reply Counts</th>
     </tr> 
     <tr>
-      <th>Date</th><th>Total</th><th>TM1</th><th>TM2</th><th>TM3</th><th>TM4</th><th>TM5</th>
+      <th>Date</th><th>Total</th><th>Michael</th><th>Daoud</th><th>Brian</th><th>Asher</th><th>Eric</th>
     </tr>
   </thead> 
   <tbody>
     <tr>
-      <td>11/9/21</td><td>5</td><td>2</td><td>1</td><td>1</td><td>1</td><td>0</td>
+      <td>3/8/22</td><td>5</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td>
     </tr>
     <tr>
-     <td>11/12/21</td><td>4</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td>
+     <td>3/16/22</td><td>5</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>9</b></td><td><b>3</b></td><td><b>2</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td>
+    <td>3/20/22</td><td>20</td><td>9</td><td>7</td><td>1</td><td>3</td><td>0</td>
+    </tr>
+    <tr><td align="right"><b>Totals:</b></td><td><b>30</b></td><td><b>11</b></td><td><b>9</b></td><td><b>3</b></td><td><b>5</b></td><td><b>2</b></td>
     </tr>
   </tbody>
 </table>
@@ -83,17 +96,20 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
       <th colspan="2"></th><th colspan="5">In attendance?</th>
     </tr> 
     <tr>
-      <th>Date</th><th>Duration (min)</th><th>TM1</th><th>TM2</th><th>TM3</th><th>TM4</th><th>TM5</th>
+      <th>Date</th><th>Duration (min)</th><th>Michael</th><th>Daoud</th><th>Brian</th><th>Asher</th><th>Eric</th>
     </tr>
   </thead> 
   <tbody>
     <tr>
-      <td>11/9/21</td><td>17</td><td>&check;</td><td>&check;</td><td></td><td>&check;</td><td>&check;</td>
+      <td>3/1/21</td><td>30</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
+    </tr>
+    <tr>
+      <td>3/10/21</td><td>10</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
      <tr>
-      <td>11/12/21</td><td>31</td><td>&check;</td><td>&check;</td><td></td><td></td><td>&check;</td>
+      <td>3/15/21</td><td>30</td><td></td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>48</b></td><td><b>2</b></td><td><b>2</b></td><td><b>0</b></td><td><b>1</b></td><td><b>2</b></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>70</b></td><td><b>2</b></td><td><b>3</b></td><td><b>3</b></td><td><b>3</b></td><td><b>3</b></td>
     </tr>
   </tbody>
 </table>
@@ -105,17 +121,14 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
       <th colspan="2"></th><th colspan="5">In attendance?</th><th></th>
     </tr> 
     <tr>
-      <th>Date</th><th>Duration (min)</th><th>TM1</th><th>TM2</th><th>TM3</th><th>TM4</th><th>TM5</th><th>Notes</th>
+      <th>Date</th><th>Duration (min)</th><th>Michael</th><th>Daoud</th><th>Brian</th><th>Asher</th><th>Eric</th><th>Notes</th>
     </tr>
   </thead> 
   <tbody>
-    <tr>
-      <td>11/10/21</td><td>45</td><td>&check;</td><td>&check;</td><td></td><td>&check;</td><td>&check;</td><td>We met in CUB conference room</td>
-    </tr>
      <tr>
-      <td>11/14/21</td><td>20</td><td>&check;</td><td>&check;</td><td></td><td></td><td>&check;</td><td>We met at Starbucks for coffee</td>
+      <td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>65</b></td><td><b>2</b></td><td><b>2</b></td><td><b>0</b></td><td><b>1</b></td><td><b>2</b></td><td></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td>N/A</td>
     </tr>
   </tbody>
 </table>
@@ -123,11 +136,11 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
 #### Reflection Statements
 | Team Member | Communication Reflection Statement |
 |-------------|-------------------|
-|TM1| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
-|TM2| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
-|TM3| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
-|TM4| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
-|TM5| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Micahel| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Daoud| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Brian| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Asher| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Eric| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
 
 ### Retrospective
 
