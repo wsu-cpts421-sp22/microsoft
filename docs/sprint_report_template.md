@@ -1,7 +1,7 @@
 # Report for Sprint 1: *Astronomalies*
 
 ## Link to Sprint Summary Video
-[Summary video link](https://youtu.be/gc3V6VYc0ms)
+[Astronamalies Sprint 1 Video](https://youtu.be/gc3V6VYc0ms)
 
 ## Link to Working Prototype
 You can access our team's working prototype at [this site](https://ourapp.herokuapp.com)
