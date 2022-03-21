@@ -50,10 +50,10 @@ You can run our team's working prototype using [this link](https://github.com/ws
 #### Reflection Statements
 | Team Member | Contribution Reflection Statement |
 |-------------|-------------------|
-|Michael| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Michael| Worked on making sure that both drafts were revised and completed for uploading. As well as overseeing everyone else and making sure that everything was being done.|
 |Daoud| Wrote the code for the back-end to access the satellite Sentinel-5P data, and get the needed scenes from a chosen Date and a chosen Gas |
 |Brian| For this sprint my main focus was towards the documentation side. I helped with creating a transcript for our video as well as working on the Sprint Report. |
-|Asher| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Asher| I focused on developing the map aspect of the milestone. Using the data that was provided by Khalil. |
 |Eric| Wrote some code for the backend to take user input for gas type and date fields for Sentinel-5P data. Contributed to the requirements draft. I definetely could've contributed a bit more, I was not proactive enought in working on the backend code. |
 ### Testing
 
@@ -134,10 +134,10 @@ You can run our team's working prototype using [this link](https://github.com/ws
 #### Reflection Statements
 | Team Member | Communication Reflection Statement |
 |-------------|-------------------|
-|Michael| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Michael| I think that communication was good however I definitely thought that we could've had more meetings in order to check up on each other and make sure that the sprint was being done in a reasonable time. |
 |Daoud| Can always improve on communication. I respond to the chat accordingly, and try to stay available on MS Teams. I tend to post questions, but never really encourage people to do the same |
 |Brian| Communication was a big factor throughout the sprint. In some instances it was great however there is still room for improvement which can aid us in smoothly accomplishing our milestones.|
-|Asher| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Asher| I did will in communicating with the team and letting them know of my progress. However we all can improve in doing better. |
 |Eric| Communication wasn't too bad but as others have said, always room to improve. I personally have not been on my laptop much because of spring break and still am not getting notification from teams on my phone. But going forward I will be more active on teams. |
 
 ### Retrospective
