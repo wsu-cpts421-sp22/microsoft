@@ -4,8 +4,7 @@
 [Astronamalies Sprint 1](https://youtu.be/gc3V6VYc0ms)
 
 ## Link to Working Prototype
-You can access our team's working prototype at [this site](https://ourapp.herokuapp.com)
-*(If your working prototype is not deployed to the web, then provide instructions here for downloading/installing your prototype)*
+You can run our team's working prototype using [this link](https://github.com/wsu-cpts421-sp22/microsoft/blob/main/frontend/README.md)
 
 ## Team members
 1. **Team Leader:** *Michael Larson (larsomic)*
