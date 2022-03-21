@@ -143,7 +143,7 @@ You can run our team's working prototype using [this link](https://github.com/ws
 
 ### Retrospective
 
-[Link to Recording](https://wsu.zoom.us/recording)
+You can find our team retrospective through this [video link](https://wsu.zoom.us/recording)
 
 #### What went well
   - We successfully accessed data from the Microsoft data stores and were able to do calculations with it
