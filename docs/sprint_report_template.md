@@ -38,11 +38,11 @@ You can run our team's working prototype using [this link](https://github.com/ws
      <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/12">Issue 12</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/14">PR 14</a></td><td>5<br/>6</td><td><br/></td><td><br></td><td>2<br/>2</td><td>2<br/>2</td><td>1<br/>2</td><td>100</td><td>Frontend CI Tests</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/13">Issue 13</a></td><td><a href="https://github.com/PR">PR #</a></td><td>3<br/>2</td><td><br/></td><td>1.5<br>1</td>1.5<td><br/></td><td>1.5<br/>1</td><td><br/></td><td>100</td><td>Sprint Video</td>
+     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/13">Issue 13</a></td><td><a href="https://github.com/PR">PR #</a></td><td>3<br/>3</td><td><br/></td><td>1.5<br>1.5</td>1.5<td><br/></td><td>1.5<br/>1.5</td><td><br/></td><td>100</td><td>Sprint Video</td>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/15">Issue 15</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/17">PR 17</a></td><td>1<br/>1</td><td>1<br/>1</td><td><br></td><td><br/></td><td><br/></td><td><br/></td><td>100</td><td>Frontend Workflow Test</td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/15">Issue 15</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/17">PR 17</a></td><td>1<br/>2</td><td>1<br/>2</td><td><br></td><td><br/></td><td><br/></td><td><br/></td><td>100</td><td>Frontend Workflow Test</td>
     </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>17</b></td><td><b>2.5</b></td><td><b>3</b></td><td><b>5</b></td><td><b>4</b></td><td><b>1</b></td><td colspan="2"></td>
+    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>29</b></td><td><b>6</b></td><td><b>5.5</b></td><td><b>5</b></td><td><b>6.5</b></td><td><b>5</b></td><td colspan="2"></td>
     </tr>
   </tbody>
 </table>
