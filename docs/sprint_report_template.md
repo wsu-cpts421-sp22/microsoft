@@ -59,8 +59,7 @@ You can run our team's working prototype using [this link](https://github.com/ws
 
 |Issue | Test File | Feature Tested | Results Summary | 
 |------|-----------|----------------|-----------------|
-|[Issue 15](https://github.com/wsu-cpts421-sp22/microsoft/issues/15)| [Google.js](https://www.github.com/)|Google Authentication| [3/3 tests passed](https://yoursite.com/animated.gif) | [
-|[Issue #](https://github.com/issue)| [routes.js](https://www.github.com/)|PUT and DELETE routes for rounds | [15/15 tests passed](https://yoursite.com/animated.gif) |
+|[Issue 15](https://github.com/wsu-cpts421-sp22/microsoft/issues/15)| [Frontend-Test.yml](https://github.com/wsu-cpts421-sp22/microsoft/tree/main/.github/workflows)|Frontend Test Workflow| [1/1 Tests Passed](https://github.com/wsu-cpts421-sp22/microsoft/blob/main/.github/workflows/frontend-test.yml) | 
   
 ### Communication
  
