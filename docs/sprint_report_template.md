@@ -51,7 +51,7 @@ You can run our team's working prototype using [this link](https://github.com/ws
 | Team Member | Contribution Reflection Statement |
 |-------------|-------------------|
 |Michael| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|Daoud| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Daoud| wrote the code for the back-end to access the satellite Sentinel-5P data, and get the needed scenes from a chosen Date and a chosen Gas |
 |Brian| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
 |Asher| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
 |Eric| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
@@ -136,7 +136,7 @@ You can run our team's working prototype using [this link](https://github.com/ws
 | Team Member | Communication Reflection Statement |
 |-------------|-------------------|
 |Michael| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
-|Daoud| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Daoud| Can always improve on communication. I respond to the chat accordingly, and try to stay available on MS Teams. I tend to post questions, but never really encourage people to do the same |
 |Brian| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
 |Asher| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
 |Eric| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
