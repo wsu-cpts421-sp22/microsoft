@@ -41,7 +41,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
     <tr>
      <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/13">Issue 13</a></td><td><a href="https://github.com/PR">PR #</a></td><td>3<br/>2</td><td><br/></td><td>1.5<br>1</td>1.5<td><br/></td><td>1.5<br/>1</td><td><br/></td><td>100</td><td>Sprint Video</td>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/15">Issue 15</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1<br/>1</td><td>1<br/>1</td><td><br></td><td><br/></td><td><br/></td><td><br/></td><td>100</td><td>Sprint Video</td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/15">Issue 15</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1<br/>1</td><td>1<br/>1</td><td><br></td><td><br/></td><td><br/></td><td><br/></td><td>100</td><td>Frontend Workflow Test</td>
     </tr>
     <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>17</b></td><td><b>2.5</b></td><td><b>3</b></td><td><b>5</b></td><td><b>4</b></td><td><b>1</b></td><td colspan="2"></td>
     </tr>
@@ -60,7 +60,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
 
 |Issue | Test File | Feature Tested | Results Summary | 
 |------|-----------|----------------|-----------------|
-|[Issue #](https://github.com/issue)| [Google.js](https://www.github.com/)|Google Authentication| [3/3 tests passed](https://yoursite.com/animated.gif) | [
+|[Issue 15](https://github.com/wsu-cpts421-sp22/microsoft/issues/15)| [Google.js](https://www.github.com/)|Google Authentication| [3/3 tests passed](https://yoursite.com/animated.gif) | [
 |[Issue #](https://github.com/issue)| [routes.js](https://www.github.com/)|PUT and DELETE routes for rounds | [15/15 tests passed](https://yoursite.com/animated.gif) |
   
 ### Communication
@@ -136,7 +136,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
 #### Reflection Statements
 | Team Member | Communication Reflection Statement |
 |-------------|-------------------|
-|Micahel| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Michael| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
 |Daoud| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
 |Brian| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
 |Asher| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
