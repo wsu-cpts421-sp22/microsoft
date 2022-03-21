@@ -147,16 +147,16 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
 [Link to Recording](https://wsu.zoom.us/recording)
 
 #### What went well
-  - Item 1
-  - Item 2
-  - Item x
+  - We successfully accessed data from the Microsoft data stores and were able to do calculations with it
+  - We created a working frontend that was able to show heat maps and highlight important features
+  - We were able to create GitHub actions to test our code everytime we commit to master
   
  #### What we'd like to improve
-  - Item 1
-  - Item 2
-  - Item x
+  - Our test cases don't cover everything that we have implemented so we would like to improve the test cases
+  - Backend data is not yet feeding any part of the frontend so we would like to start thinking about connecting them
+  - Team meeting frequency, we need to improve on communicating more frequently on what we are working on to avoid confusion
   
 #### Changes we plan to implement in next sprint period
-  - Item 1
-  - Item 2
-  - Item x
+  - We have not deployed our website yet so a major goal of our next sprint would be to deploy the website
+  - We have only created continous improvement, but not touched continuous deployment yet. Using GitLab actions we would like to be able to deploy our product at the push of a button
+  - Change our code to be independent python files instead of only living as a jupyter notebook.
