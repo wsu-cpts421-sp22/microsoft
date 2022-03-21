@@ -54,7 +54,7 @@ You can run our team's working prototype using [this link](https://github.com/ws
 |Daoud| Wrote the code for the back-end to access the satellite Sentinel-5P data, and get the needed scenes from a chosen Date and a chosen Gas |
 |Brian| For this sprint my main focus was towards the documentation side. I helped with creating a transcript for our video as well as working on the Sprint Report. |
 |Asher| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|Eric| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Eric| Wrote some code for the backend to take user input for gas type and date fields for Sentinel-5P data. Contributed to the requirements draft. I definetely could've contributed a bit more, I was not proactive enought in working on the backend code. |
 ### Testing
 
 |Issue | Test File | Feature Tested | Results Summary | 
@@ -138,7 +138,7 @@ You can run our team's working prototype using [this link](https://github.com/ws
 |Daoud| Can always improve on communication. I respond to the chat accordingly, and try to stay available on MS Teams. I tend to post questions, but never really encourage people to do the same |
 |Brian| Communication was a big factor throughout the sprint. In some instances it was great however there is still room for improvement which can aid us in smoothly accomplishing our milestones.|
 |Asher| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
-|Eric| <*Required*: The posts/replies data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Eric| Communication awsn't too bad but as others have said, always room to improve. I personally have not been on my laptop much because of spring break and still am not getting notification from teams on my phone. But going forard I will be more active on teams. |
 
 ### Retrospective
 
