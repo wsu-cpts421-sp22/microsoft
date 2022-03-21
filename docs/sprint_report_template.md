@@ -26,16 +26,16 @@ You can run our team's working prototype using [this link](https://github.com/ws
   </thead> 
   <tbody>
     <tr>
-      <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/5">Issue 5</a></td><td><a href="https://github.com/PR">PR #</a></td><td>9<br/>2</td><td>2<br/>0.25</td><td>2<br/>0.5</td><td>3<br/>0.75</td><td>2<br/>0.5</td><td>0<br/>0</td><td>100</td><td>Project Report</td>
+      <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/5">Issue 5</a></td><td><a href="https://github.com/PR">PR #</a></td><td>9<br/>6</td><td>2<br/>1</td><td>2<br/>1</td><td>2<br/>1</td><td>2<br/>1</td><td>1<br/>1</td><td>100</td><td>Project Report</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/9">Issue 9</a></td><td><a href="https://github.com/PR">PR #</a></td><td>3<br/>2</td><td>1.5<br/>1</td>1.5<td>1<br>1.5</td><td><br/></td><td><br/></td><td><br/></td><td>100</td><td>Updated and Peer Reviewed Decription Draft</td>
+     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/9">Issue 9</a></td><td><a href="https://github.com/PR">PR #</a></td><td>3<br/>6</td><td>1.5<br/>3</td>1.5<td>1<br>3</td><td><br/></td><td><br/></td><td><br/></td><td>100</td><td>Updated and Peer Reviewed Decription Draft</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/10">Issue 10</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>2</td><td><br/></td><td><br></td><td>2<br/>0.75</td><td>2<br/>0.75</td><td>1<br/>0.50</td><td>100</td><td>Updated and Peer Reviewed Requirements Draft</td>
+     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/10">Issue 10</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>6</td><td><br/></td><td><br></td><td>2<br/>2</td><td>2<br/>2</td><td>1<br/>2</td><td>100</td><td>Updated and Peer Reviewed Requirements Draft</td>
     </tr>
     <tr>
-     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/12">Issue 12</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/14">PR 14</a></td><td>5<br/>2</td><td><br/></td><td><br></td><td>2<br/>0.75</td><td>2<br/>0.75</td><td>1<br/>0.50</td><td>100</td><td>Frontend CI Tests</td>
+     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/12">Issue 12</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/14">PR 14</a></td><td>5<br/>6</td><td><br/></td><td><br></td><td>2<br/>2</td><td>2<br/>2</td><td>1<br/>2</td><td>100</td><td>Frontend CI Tests</td>
     </tr>
     <tr>
      <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/13">Issue 13</a></td><td><a href="https://github.com/PR">PR #</a></td><td>3<br/>2</td><td><br/></td><td>1.5<br>1</td>1.5<td><br/></td><td>1.5<br/>1</td><td><br/></td><td>100</td><td>Sprint Video</td>
