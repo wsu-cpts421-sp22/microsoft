@@ -1,0 +1,14 @@
+name: SeniorProject
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyterlab
+  - fsspec
+  - xarray
+  - azure-storage-blob
+  - h5netcdf
+  - aiohttp
+  - gdal
+  - rasterio
+prefix: C:\Users\username\anaconda3\envs\SeniorProject

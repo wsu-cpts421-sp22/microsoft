@@ -90,7 +90,16 @@ print('\nFound {} matching scenes:\n'.format(len(scene_paths)))
 for s in scene_paths:
     print(s.split('/')[-1])
 
-offl_scenes = [s for s in scene_paths if 'OFFL' in s]
+
+#Print metadata of one scene
+
+#different gas use different sc_mode, default CH4
+sc_mode = 'OFFL'
+if (product == 'L2__NO2___'):
+    sc_mode = 'NRTI'
+#need to add sc_mode for the other gases. will probably move this part to the beginning
+
+offl_scenes = [s for s in scene_paths if sc_mode in s]
 scene_path = offl_scenes[len(offl_scenes) // 2]
 url = storage_account_url + container_name + '/' + scene_path
 print('Processing image at URL:\n{}'.format(url))
@@ -106,6 +115,10 @@ b4_href = planetary_computer.sign(url) #i think this sign the url directly
 print(b4_href)
 #this print a url if clicked would download the scene
 
+
+##print metadata
+import warnings; warnings.filterwarnings('ignore')
+
 with fsspec.open(b4_href) as f:
-    ds = xr.open_dataset(f,group='/PRODUCT')
+    ds = xr.open_dataset(f)
 print(ds)
