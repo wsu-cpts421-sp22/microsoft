@@ -115,10 +115,17 @@ b4_href = planetary_computer.sign(url) #i think this sign the url directly
 print(b4_href)
 #this print a url if clicked would download the scene
 
+print('opening file...')
+with fsspec.open(b4_href) as f1:
+    ds1 = h5netcdf.File(f1, 'r')
+    print(ds1)
 
 ##print metadata
 import warnings; warnings.filterwarnings('ignore')
 
+print('loading METADATA')
+
 with fsspec.open(b4_href) as f:
-    ds = xr.open_dataset(f)
+    ds = xr.open_dataset(f)    
+print('=METADATA===================================')
 print(ds)
