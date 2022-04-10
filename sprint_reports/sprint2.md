@@ -1,4 +1,4 @@
-# Report for Sprint # [sprint #]: *Team Name*
+# Report for Sprint # [sprint 2]: *Astronomalies*
 
 ## Link to Sprint Summary Video
 [Summary video link](https://youtube.com/)
@@ -11,11 +11,11 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
 *(If your working prototype is not deployed to the web, then provide instructions here for downloading/installing your prototype)*
 
 ## Team members
-1. **Team leader:** *Ada (GitHub Id)*
-1. *Pascal (GitHub Id)*
-1. *Ruby (GitHub Id)*
-1. *Haskel (GitHub Id)*
-1. *Java (GitHub Id)*
+1. **Team leader:** *Michael Larson (Larsomic)*
+1. *Khalil Daoud (KDaoud)*
+1. *Brian Lopez (brianlopezwsu)*
+1. *Eric Alvarez (Eric-Alz)*
+1. *Asher Handaly (asherhandalywsu)*
 
 ### Progress
 #### Issues, Points and Hours
@@ -148,11 +148,11 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
 #### Reflection Statements
 | Team Member | Communication Reflection Statement |
 |-------------|-------------------|
-|Ada| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
-|Pascal| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
-|Ruby| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
-|Haskel| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
-|Java| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Michael| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Khalil| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Brian| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Asher| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Eric| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
 
 ### Retrospective
 
