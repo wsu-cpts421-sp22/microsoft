@@ -25,7 +25,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
       <th colspan="2"></th><th colspan="6">Point & Hour Counts</th><th colspan="2"></th>
     </tr> 
     <tr>
-      <th>Issue</th><th>Linked PR</th><th><ins>Total</ins><br>(Pts,<br>Hrs)</th><th><ins>Michael</ins><br>(Pts,<br>Hrs)</th><th><ins>Khalil</ins><br>(Pts,<br>Hrs)</th><th><ins>Brian</ins><br>(Pts,<br>Hrs)</th><th><ins>Asher</ins><br>(Pts,<br>Hrs)</th><th><ins>Java</ins><br>(Pts,<br>Hrs)</th><th>% Complete</th><th>Notes</th>
+      <th>Issue</th><th>Linked PR</th><th><ins>Total</ins><br>(Pts,<br>Hrs)</th><th><ins>Michael</ins><br>(Pts,<br>Hrs)</th><th><ins>Khalil</ins><br>(Pts,<br>Hrs)</th><th><ins>Brian</ins><br>(Pts,<br>Hrs)</th><th><ins>Asher</ins><br>(Pts,<br>Hrs)</th><th><ins>Eric</ins><br>(Pts,<br>Hrs)</th><th>% Complete</th><th>Notes</th>
     </tr>
   </thead> 
   <tbody>
@@ -64,7 +64,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
       <th></th><th colspan="6">Post/Reply Counts</th>
     </tr> 
     <tr>
-      <th>Date</th><th>Total</th><th>Ada</th><th>Pascal</th><th>Ruby</th><th>Haskel</th><th>Java</th>
+      <th>Date</th><th>Total</th><th>Michael</th><th>Khalil</th><th>Brian</th><th>Asher</th><th>Eric</th>
     </tr>
   </thead> 
   <tbody>
