@@ -1,4 +1,4 @@
-# Report for Sprint # [sprint 2]: *Astronomalies*
+# Report for Sprint 2: *Astronomalies*
 
 ## Link to Sprint Summary Video
 [Summary video link](https://youtube.com/)
