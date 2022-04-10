@@ -25,7 +25,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
       <th colspan="2"></th><th colspan="6">Point & Hour Counts</th><th colspan="2"></th>
     </tr> 
     <tr>
-      <th>Issue</th><th>Linked PR</th><th><ins>Total</ins><br>(Pts,<br>Hrs)</th><th><ins>Ada</ins><br>(Pts,<br>Hrs)</th><th><ins>Pascal</ins><br>(Pts,<br>Hrs)</th><th><ins>Ruby</ins><br>(Pts,<br>Hrs)</th><th><ins>Haskel</ins><br>(Pts,<br>Hrs)</th><th><ins>Java</ins><br>(Pts,<br>Hrs)</th><th>% Complete</th><th>Notes</th>
+      <th>Issue</th><th>Linked PR</th><th><ins>Total</ins><br>(Pts,<br>Hrs)</th><th><ins>Michael</ins><br>(Pts,<br>Hrs)</th><th><ins>Khalil</ins><br>(Pts,<br>Hrs)</th><th><ins>Brian</ins><br>(Pts,<br>Hrs)</th><th><ins>Asher</ins><br>(Pts,<br>Hrs)</th><th><ins>Java</ins><br>(Pts,<br>Hrs)</th><th>% Complete</th><th>Notes</th>
     </tr>
   </thead> 
   <tbody>
