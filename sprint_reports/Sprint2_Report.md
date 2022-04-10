@@ -149,7 +149,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
     <tr>
       <td></td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td>N/A<td></td><b>N/A</b></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td>N/A<td></td><b>N/A</b></td><td>N/A</td>
     </tr>
   </tbody>
 </table>
