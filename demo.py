@@ -52,7 +52,7 @@ def checkToken(jsonData):
         print('token still Valid! expiration Time ', currTime)
         return 1
 
-sas_path = './microsoft/tokens/sentinel-5p_sas.json'
+sas_path = './tokens/sentinel-5p_sas.json'
 is_empty = is_file_empty(sas_path)
 
 if is_empty != 0:
@@ -89,3 +89,36 @@ scene_paths = [blob.name for blob in generator]
 print('\nFound {} matching scenes:\n'.format(len(scene_paths)))
 for s in scene_paths:
     print(s.split('/')[-1])
+
+
+#Print metadata of one scene
+
+#different gas use different sc_mode, default CH4
+sc_mode = 'OFFL'
+if (product == 'L2__NO2___'):
+    sc_mode = 'NRTI'
+#need to add sc_mode for the other gases. will probably move this part to the beginning
+
+offl_scenes = [s for s in scene_paths if sc_mode in s]
+scene_path = offl_scenes[len(offl_scenes) // 2]
+url = storage_account_url + container_name + '/' + scene_path
+print('Processing image at URL:\n{}'.format(url))
+
+#sign URL
+import planetary_computer
+import pystac
+import rasterio #this seems to break when called
+
+#item: pystac.Item = ... # no idea what goes here been trying multiple things but still stuck
+b4_href = planetary_computer.sign(url) #i think this sign the url directly
+
+print(b4_href)
+#this print a url if clicked would download the scene
+
+
+##print metadata
+import warnings; warnings.filterwarnings('ignore')
+
+with fsspec.open(b4_href) as f:
+    ds = xr.open_dataset(f)
+print(ds)
