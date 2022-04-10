@@ -72,7 +72,10 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
   </thead> 
   <tbody>
     <tr>
-      <td>11/9/21</td><td>5</td><td>2</td><td>1</td><td>1</td><td>1</td><td>0</td>
+      <td>3/28/22</td><td>16</td><td>5</td><td>2</td><td>4</td><td>4</td><td>1</td>
+    </tr>
+    <tr>
+     <td>4/2/22</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td>
     </tr>
     <tr>
      <td>11/12/21</td><td>4</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td>
