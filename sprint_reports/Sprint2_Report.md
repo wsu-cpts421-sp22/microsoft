@@ -86,7 +86,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
     <tr>
      <td>4/10/22</td><td>15</td><td>0</td><td>7</td><td>3</td><td>5</td><td>0</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>9</b></td><td><b>3</b></td><td><b>2</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>43</b></td><td><b>7</b></td><td><b>14</b></td><td><b>8</b></td><td><b>13</b></td><td><b>1</b></td>
     </tr>
   </tbody>
 </table>
