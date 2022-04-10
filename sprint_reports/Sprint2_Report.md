@@ -147,12 +147,9 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
   </thead> 
   <tbody>
     <tr>
-      <td>11/10/21</td><td>45</td><td>&check;</td><td>&check;</td><td></td><td>&check;</td><td>&check;</td><td>We met in CUB conference room</td>
+      <td>11/10/21</td><td>N/A</td><td>N/A</td><td>N/A</td><td></td><td>N/A</td><td>N/A</td><td>N/A</td>
     </tr>
-     <tr>
-      <td>11/14/21</td><td>20</td><td>&check;</td><td>&check;</td><td></td><td></td><td>&check;</td><td>We met at Starbucks for coffee</td>
-    </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>65</b></td><td><b>2</b></td><td><b>2</b></td><td><b>0</b></td><td><b>1</b></td><td><b>2</b></td><td></td>
+    <tr><td align="right"><b>Totals:N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td></td>
     </tr>
   </tbody>
 </table>
