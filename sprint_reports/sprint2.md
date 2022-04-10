@@ -30,12 +30,15 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
   </thead> 
   <tbody>
     <tr>
-      <td><a href="https://github.com/issue">Issue #</a></td><td><a href="https://github.com/PR">PR #</a></td><td>5<br/>2.25</td><td>3<br/>1.5</td><td>1<br/>0.25</td><td>1<br/>0.5</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i>If incomplete, provide brief explanation here</i></td>
+      <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/19">Issue #19</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/20">PR #20</a></td><td>8<br/>8</td><td>0<br/>0</td><td>8<br/>8</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> completed.</i></td>
     </tr>
     <tr>
-     <td><a href="https://github.com/issue">Issue #</a></td><td><a href="https://github.com/PR">PR #</a></td><td>1.2<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0.8<br/>0.5</td><td>0.4<br/>0.5</td><td>40</td><td><i>Example: Updated database schema. Updated server routes. Did not implement UI because we ran out of time.</i></td>
+      <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/21">Issue #21</a></td><td><a href="https://github.com/microsoft/issues/21"> PR</a></td><td>8<br/>5</td><td>0<br/>0</td><td>8<br>5</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>75</td><td><i> able to read METADATA from our file but not the PRODUCT DATA. seems to be a module dependecies issue. but we still did not figure out how to solve the problem</i></td>
     </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>7.2<br>3.25</b></td><td><b>3<br>1.5</b></td><td><b>1<br>0.25</b></td><td><b>1<br>0.5</b></td><td><b>0.8<br>0.5</b></td><td><b>0.4<br>0.5</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
+    <tr>
+     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/27">Issue #27</a></td><td><a href="https://github.com/microsoft/issues/27"> PR</a></td><td>15<br/>13</td><td>0<br/>0</td><td>15<br>13</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>75</td><td><i> Researching netcdf data structure. searching about modules: xarray, h5netcdf. Try to find out why the PRODUCT data cant be read, even though there are no issues with the METADATA</i></td>
+    </tr>
+    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>31<br>26</b></td><td><b>3<br>1.5</b></td><td><b>31<br>26</b></td><td><b>1<br>0.5</b></td><td><b>0.8<br>0.5</b></td><td><b>0.4<br>0.5</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
     </tr>
   </tbody>
 </table>
@@ -44,7 +47,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
 | Team Member | Contribution Reflection Statement |
 |-------------|-------------------|
 |Michael| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|Khalil| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Khalil| This was the first wall that completely stopped me. Tried following documentations, and resources but, alas, to no luck. Had to change my approach and focus more on reasearching. |
 |Brian| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
 |Asher| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
 |Eric| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
