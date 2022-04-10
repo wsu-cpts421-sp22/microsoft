@@ -108,7 +108,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
      <tr>
       <td>4/6/22</td><td>28</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td></td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>48</b></td><td><b>2</b></td><td><b>2</b></td><td><b>0</b></td><td><b>1</b></td><td><b>2</b></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>57</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>1</b></td>
     </tr>
   </tbody>
 </table>
