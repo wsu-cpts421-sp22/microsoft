@@ -86,7 +86,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
       <th colspan="2"></th><th colspan="5">In attendance?</th>
     </tr> 
     <tr>
-      <th>Date</th><th>Duration (min)</th><th>Ada</th><th>Pascal</th><th>Ruby</th><th>Haskel</th><th>Java</th>
+      <th>Date</th><th>Duration (min)</th><th>Michael</th><th>Khalil</th><th>Brian</th><th>Asher</th><th>Eric</th>
     </tr>
   </thead> 
   <tbody>
@@ -108,7 +108,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
       <th colspan="2"></th><th colspan="5">In attendance?</th>
     </tr> 
     <tr>
-      <th>Date</th><th>Duration (min)</th><th>Ada</th><th>Pascal</th><th>Ruby</th><th>Haskel</th><th>Java</th>
+      <th>Date</th><th>Duration (min)</th><th>Michael</th><th>Khalil</th><th>Brian</th><th>Asher</th><th>Eric</th>
     </tr>
   </thead> 
   <tbody>
