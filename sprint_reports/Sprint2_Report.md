@@ -78,7 +78,13 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
      <td>4/2/22</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td>
     </tr>
     <tr>
-     <td>11/12/21</td><td>4</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td>
+     <td>4/3/22</td><td>4</td><td>0</td><td>1</td><td>1</td><td>2</td><td>0</td>
+    </tr>
+    <tr>
+     <td>4/5/22</td><td>7</td><td>2</td><td>3</td><td>0</td><td>2</td><td>0</td>
+    </tr>
+    <tr>
+     <td>4/10/22</td><td>15</td><td>0</td><td>7</td><td>3</td><td>5</td><td>0</td>
     </tr>
     <tr><td align="right"><b>Totals:</b></td><td><b>9</b></td><td><b>3</b></td><td><b>2</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td>
     </tr>
