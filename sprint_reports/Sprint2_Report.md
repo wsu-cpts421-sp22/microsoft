@@ -168,7 +168,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
 
 ### Retrospective
 
-[Link to Recording](https://wsu.zoom.us/recording)
+[Link to Recording](https://emailwsu.sharepoint.com/teams/2022.PULLM.CptS.421.423-Microsoft/Shared%20Documents/Recordings/Microsoft-20220411_000845-Meeting%20Recording.mp4?web=1)
 
 #### What went well
   - We were overall much more active and effective with our communication, we are having meeetings more often with each other and with our sponsor as well.
