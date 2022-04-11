@@ -32,6 +32,9 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
     <tr>
       <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/19">Issue #19</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/20">PR #20</a></td><td>8<br/>8</td><td>0<br/>0</td><td>8<br/>8</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> completed.</i></td>
     </tr>
+    </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/39">Issue #33</a></td><td><a href="https://github.com/microsoft/issues/39"> PR</a></td><td>4<br/>4</td><td>0<br/>0</td><td>0<br>0</td><td>4<br/>4</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Research on MapBox</i></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/21">Issue #21</a></td><td><a href="https://github.com/microsoft/issues/21"> PR</a></td><td>8<br/>5</td><td>0<br/>0</td><td>8<br>5</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>75</td><td><i> able to read METADATA from our file but not the PRODUCT DATA. seems to be a module dependecies issue. but we still did not figure out how to solve the problem</i></td>
     </tr>
