@@ -36,7 +36,7 @@ You can access our team's working prototype at [this site](https://github.com/ws
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/40">Issue #40</a></td><td><a href="https://github.com/microsoft/issues/40"> PR</a></td><td>1<br/>2</td><td>0<br/>0</td><td>0<br>0</td><td>1<br/>2</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Documentation for Design Draft</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/31">Issue #31</a></td><td><a href="https://github.com/microsoft/issues/31"> PR</a></td><td>3<br/>2.5</td><td>0.50<br/>0.50</td><td>0.50<br>0.50</td><td>0.50<br/>0.50</td><td>1<br/>0.50</td><td>0.50<br/>0.50</td><td>100</td><td><i> Sprint Video Transcript</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/31">Issue #31</a></td><td><a href="https://github.com/microsoft/issues/31"> PR</a></td><td>3<br/>2.5</td><td>0.50<br/>0.50</td><td>0.50<br>0.50</td><td>0.50<br/>0.50</td><td>1<br/>1</td><td>0.50<br/>0.50</td><td>100</td><td><i> Sprint Video Transcript</i></td>
     </tr>
     </tr>
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/30">Issue #30</a></td><td><a href="https://github.com/microsoft/issues/30"> PR</a></td><td>3<br/>4</td><td>0<br/>0</td><td>0<br>0</td><td>2<br/>2</td><td>0<br/>0</td><td>1<br/>1</td><td>100</td><td><i> Sprint Report</i></td>
@@ -48,7 +48,11 @@ You can access our team's working prototype at [this site](https://github.com/ws
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/30">Issue #30</a></td><td><a href="https://github.com/microsoft/issues/30"> PR</a></td><td>3<br/>3</td><td>0<br/>0</td><td>0<br>0</td><td>3<br/>3</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Documentation of Meetings</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/39">Issue #39</a></td><td><a href="https://github.com/microsoft/issues/39"> PR</a></td><td>3<br/>4</td><td>0<br/>0</td><td>0<br>0</td><td>3<br/>4</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Research on MapBox</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/39">Issue #39</a></td><td><a href="https://github.com/microsoft/issues/39"> PR</a></td><td>3<br/>4</td><td>0<br/>0</td><td>0<br>0</td><td>3<br/>4</td><td>3<br/>10</td><td>0<br/>0</td><td>100</td><td><i> Research on MapBox</i></td>
+    </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/24">Issue #24</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/24"> PR</a></td><td>0<br/>0</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>3<br/>6</td><td>0<br/>0</td><td>100</td><td><i>Time-Range Implementation</i></td>
+    </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/26">Issue #26</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/26"> PR</a></td><td>0<br/>0</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>3<br/>3</td><td>0<br/>0</td><td>100</td><td><i>Loading Component Implementation</i></td>
     </tr>
     <tr>
       <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/21">Issue #21</a></td><td><a href="https://github.com/microsoft/issues/21"> PR</a></td><td>8<br/>5</td><td>0<br/>0</td><td>8<br>5</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>75</td><td><i> able to read METADATA from our file but not the PRODUCT DATA. seems to be a module dependecies issue. but we still did not figure out how to solve the problem</i></td>
@@ -79,7 +83,7 @@ You can access our team's working prototype at [this site](https://github.com/ws
     </tr>
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/29">Issue #29</a></td><td><a href="https://github.com/microsoft/issues/29"> PR</a></td><td>3<br/>3</td><td>3<br/>3</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Research</i></td>
     </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>63<br>59.5</b></td><td><b>14<br>14</b></td><td><b>42<br>27</b></td><td><b>26<br>28</b></td><td><b>1.5<br>1</b></td><td><b>3<br>3</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
+    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>63<br>59.5</b></td><td><b>14<br>14</b></td><td><b>42<br>27</b></td><td><b>26<br>28</b></td><td>10.5<b><br>20.5</b></td><td><b>3<br>3</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
     </tr>
   </tbody>
 </table>
