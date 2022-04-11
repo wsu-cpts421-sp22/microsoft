@@ -94,7 +94,7 @@ You can access our team's working prototype at [this site](https://github.com/ws
 |Michael| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
 |Khalil| This was the first wall that completely stopped me. Tried following documentations, and resources but, alas, to no luck. Had to change my approach and focus more on reasearching. |
 |Brian| During this sprint documentation was more present and I was more proactive about it. Taking note of everything being done as well as keeping issues updated for the kanban board were done however I can improve on making sure that they have been added at an earlier time.|
-|Asher| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Asher| This sprint I focused on implementing the time range component which will allow the user to add a start / end date to the frontend, then iterate between those dates using a slider to visualize the change. I also built a loading component that is presented whenever a query will be ran. |
 |Eric| This sprint I focused more on the documentation side of things. I spent most my time working on the sprint report, video transcript, kanban board, and generic research. I could've managed my time better throughout this sprint and should work on things sooner which is something I could improve upon. |
 ### Testing
 
@@ -205,7 +205,7 @@ You can access our team's working prototype at [this site](https://github.com/ws
 |Michael| I think that our communication was a lot better during this sprint. We made it a goal of this period to focus on communication and I think that commitment paid dividends. We saw lots of benefits from communication and felt like we put together a better product because of it. |
 |Khalil| We talked about our shortcomings. and it has improved our flow of work. communication improved a bunch, and we decided to meet with our sponsor weekly instead of bi-weekly. we communicated on what part we are worrking on . and used Kanban board a lot more|
 |Brian| Communication during this sprint has improved in a dramatic way. We started communicating more when finishing tasks and meeting weekly with sponsors as well. We would like to improve on making sure to have a regular team meeting during the week to ensure adequate progress.|
-|Asher| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Asher| Our communication was definitly better this sprint. I think in the future we can prioritize planning the logistics of the sprint report / video at the beginning of the sprint and apply better estimates to the story points vs time input requirements. |
 |Eric| We had much better communication during this sprint, I like how we had more frequent meetings and delegated tasks more clearly early on in the sprint. While we met more frequently I would like to see us have recurring meetings every week in future sprints. |
 
 ### Retrospective
