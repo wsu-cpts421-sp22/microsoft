@@ -38,6 +38,8 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
     <tr>
       <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/27">Issue #27</a></td><td><a href="https://github.com/microsoft/issues/27"> Reasearch</a></td><td>15<br/>13</td><td>0<br/>0</td><td>15<br>13</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>75</td><td><i> Researching netcdf data structure. searching about modules: xarray, h5netcdf. Try to find out why the PRODUCT data cant be read, even though there are no issues with the METADATA</i></td>
     </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/36">Issue #33</a></td><td><a href="https://github.com/microsoft/issues/36"> PR</a></td><td>3<br/>1</td><td>0<br/>0</td><td>0<br>0</td><td>2<br/>1</td><td>0<br/>0</td><td>1<br/>1</td><td>100</td><td><i> </i></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/22">Issue #22</a></td><td><a href="https://github.com/microsoft/issues/22"> Vid</a></td><td>3<br/>3</td><td>0.5<br/>0.5</td><td>0.5<br>0.5</td><td>0.5<br/>0.5</td><td>0.5<br/>0.5</td><td>0.5<br/>0.5</td><td>100</td><td><i> </i></td>
     </tr>
