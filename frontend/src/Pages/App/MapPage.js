@@ -1,7 +1,9 @@
 import mapboxGl from 'mapbox-gl';
 import { useEffect, useRef, useState } from 'react';
 import { Navigation } from '../../Components/FooterNavigation/Navigation';
+import { LoadingModal } from '../../Components/LoadingModal/LoadingModal';
 import { MapMeta } from '../../Components/MapMeta/MapMeta';
+import { useDateRange } from '../../Components/UseDateRange/UseDateRange';
 import { SupportedGasses } from '../../Constants/SupportedGasses';
 
 mapboxGl.accessToken = process.env.REACT_APP_MAPBOX_ACCESS_TOKEN;
@@ -28,6 +30,16 @@ const MapPage = (props) => {
   const [lng, setLng] = useState(-122.121013);
   const [lat, setLat] = useState(47.671947);
   const [zoom, setZoom] = useState(12);
+  const [initializingMap, setInitializingMap] = useState(true);
+  const [loading, setLoading] = useState(true);
+
+  const { 
+    startDate,
+    endDate,
+    granularity,
+    dateComponent,
+    visualizingDate,
+  } = useDateRange();
 
   //Visualize the selected gas
   const [gas, setGas] = useState(SupportedGasses[0].key);
@@ -53,6 +65,8 @@ const MapPage = (props) => {
 
     //Add demo heatmap once the map is loaded
     map.current.on('load', () => {
+      setInitializingMap(false);
+
       map.current.addSource('earthquakes', {
         type: 'geojson',
         data: 'https://docs.mapbox.com/mapbox-gl-js/assets/earthquakes.geojson'
@@ -114,11 +128,47 @@ const MapPage = (props) => {
     });
   }, []);
 
+  //Simulate data loading on page load
+  useEffect(() => {
+    setTimeout(() => {
+      setLoading(false);
+    }, 2000);
+  }, []);
+
+  //Update the map when the visualized date changes
+  useEffect(() => {
+    if (!map.current || initializingMap) return;
+    map.current.removeLayer('earthquakes');    
+    map.current.addLayer({
+      id: 'earthquakes',
+      source: 'earthquakes',
+      type: 'heatmap',
+      paint: {
+        'heatmap-radius': Math.floor(Math.random() * 60) + 10,
+        'heatmap-opacity': 0.75,
+        'heatmap-intensity': 0.9
+      },
+    });
+
+  }, [visualizingDate]);
+
+  //Fetch the required data when the date changes
+  useEffect(() => {
+    setLoading(true);
+    setTimeout(() => {
+      setLoading(false);
+    }, 1000);
+  }, [startDate, endDate]);
+
+
+
   return (
     <div style={styles.container}>
+      {loading && <LoadingModal />}
       <div style={styles.mapContainer} ref={mapContainer}></div>
       <Navigation gas={gas} setGas={setGas} />
       <MapMeta lat={lat} lng={lng} zoom={zoom} />
+      {dateComponent}
     </div>
   );
 }
