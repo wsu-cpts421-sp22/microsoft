@@ -171,16 +171,15 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
 [Link to Recording](https://wsu.zoom.us/recording)
 
 #### What went well
-  - Item 1 <i>(Be as concrete and specific as possible)</i>
-  - Item 2 <i>(Be as concrete and specific as possible)</i>
-  - Item x <i>(Be as concrete and specific as possible)</i>
+  - We were overall much more active and effective with our communication, we are having meeetings more often with each other and with our sponsor as well.
+  - Did a much better job of delegating and documenting our tasks. We had a meeting early on in the sprint for task delegation and throughout the sprint we were much better about documenting everything in github than we were in our previous sprint.
   
  #### What we'd like to improve
-  - Item 1 <i>(Be as concrete and specific as possible)</i>
-  - Item 2 <i>(Be as concrete and specific as possible)</i>
-  - Item x <i>(Be as concrete and specific as possible)</i>
+  - Time management is something some of us struggled with this this sprint, we ending up working on issues closer to the deadline rather than earlier. We'd like to do our work more proactively in the future.
+  - We had some problems this sprint dealing with external variables, some of us had midterms and other coursework come up this week which hurt out productivity and timeliness. We will try to have better time management in the future to avoid this.
+  - Response times were a bit slow and something we look to improve. Some members had problems with Teams' notificiations which we are looking into getting resolved.
   
 #### Changes we plan to implement in next sprint period
-  - Item 1 <i>(Express in concrete, observable, measurable terms so that progress can be assessed)</i>
-  - Item 2 <i>(Express in concrete, observable, measurable terms so that progress can be assessed)</i>
-  - Item x <i>(Express in concrete, observable, measurable terms so that progress can be assessed)</i>
+  - We would like to have recurring weekliy meetings between us 5 members. Kind of like stand-up meetings, we would like to have some time each week to go over what everyone is doing and what our progress is looking like. This will also help us with working on the project more throughout the sprint rather than more towards the end of the sprint.
+  -  This sprint we meet and delegated tasks early which was great but were not as proactive with documentating the tasks that were delagated. In future sprints we will look to create all the tasks in github and document them at the start of the sprint.
+  - As mentioned previously, another one of our goals going forward is to start working earlier during the sprints. In both sprint 1 and 2 we did a lot of the work later on in the sprint which caused us unnecessary stress.
