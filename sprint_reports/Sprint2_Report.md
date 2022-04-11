@@ -67,7 +67,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
     </tr>
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/37">Issue #37</a></td><td><a href="https://github.com/microsoft/issues/37"> PR</a></td><td>4<br/>4</td><td>0<br/>0</td><td>0<br>0</td><td>4<br/>4</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Updating and Checking Kanban Board</i></td>
     </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>34<br>29</b></td><td><b>3<br>1.5</b></td><td><b>31.5<br>26.5</b></td><td><b>1<br>0.5</b></td><td><b>0.8<br>0.5</b></td><td><b>0.4<br>0.5</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
+    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>63<br>59.5</b></td><td><b>1<br>1</b></td><td><b>42<br>27</b></td><td><b>26<br>28</b></td><td><b>1.5<br>1</b></td><td><b>3<br>3</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
     </tr>
   </tbody>
 </table>
