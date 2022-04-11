@@ -161,7 +161,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
 | Team Member | Communication Reflection Statement |
 |-------------|-------------------|
 |Michael| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
-|Khalil| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Khalil| We talked about our shortcomings. and it has improved our flow of work. communication improved a bunch, and we decided to meet with our sponsor weekly instead of bi-weekly. we communicated on what part we are worrking on . and used Kanban board a lot more|
 |Brian| Communication during this sprint has improved in a dramatic way. We started communicating more when finishing tasks and meeting weekly with sponsors as well. We would like to improve on making sure to have a regular team meeting during the week to ensure adequate progress.|
 |Asher| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
 |Eric| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
