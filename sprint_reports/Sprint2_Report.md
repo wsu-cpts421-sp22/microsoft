@@ -33,19 +33,22 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
       <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/19">Issue #19</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/20">PR #20</a></td><td>8<br/>8</td><td>0<br/>0</td><td>8<br/>8</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> completed.</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/31">Issue #33</a></td><td><a href="https://github.com/microsoft/issues/31"> PR</a></td><td>3<br/>2.5</td><td>0.50<br/>0.50</td><td>0.50<br>0.50</td><td>0.50<br/>0.50</td><td>1<br/>0.50</td><td>0.50<br/>0.50</td><td>100</td><td><i> Sprint Video Transcript</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/40">Issue #40</a></td><td><a href="https://github.com/microsoft/issues/40"> PR</a></td><td>1<br/>2</td><td>0<br/>0</td><td>0<br>0</td><td>1<br/>2</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Documentation for Design Draft</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/30">Issue #33</a></td><td><a href="https://github.com/microsoft/issues/30"> PR</a></td><td>3<br/>4</td><td>0<br/>0</td><td>0<br>0</td><td>2<br/>2</td><td>0<br/>0</td><td>1<br/>1</td><td>100</td><td><i> Sprint Report</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/31">Issue #31</a></td><td><a href="https://github.com/microsoft/issues/31"> PR</a></td><td>3<br/>2.5</td><td>0.50<br/>0.50</td><td>0.50<br>0.50</td><td>0.50<br/>0.50</td><td>1<br/>0.50</td><td>0.50<br/>0.50</td><td>100</td><td><i> Sprint Video Transcript</i></td>
+    </tr>
+    </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/30">Issue #30</a></td><td><a href="https://github.com/microsoft/issues/30"> PR</a></td><td>3<br/>4</td><td>0<br/>0</td><td>0<br>0</td><td>2<br/>2</td><td>0<br/>0</td><td>1<br/>1</td><td>100</td><td><i> Sprint Report</i></td>
     </tr>
     </tr>
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/33">Issue #33</a></td><td><a href="https://github.com/microsoft/issues/33"> PR</a></td><td>3<br/>2</td><td>0<br/>0</td><td>0<br>0</td><td>4<br/>4</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Documentation of Planetary Computer</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/30">Issue #33</a></td><td><a href="https://github.com/microsoft/issues/30"> PR</a></td><td>3<br/>3</td><td>0<br/>0</td><td>0<br>0</td><td>3<br/>3</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Documentation of Meetings</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/30">Issue #30</a></td><td><a href="https://github.com/microsoft/issues/30"> PR</a></td><td>3<br/>3</td><td>0<br/>0</td><td>0<br>0</td><td>3<br/>3</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Documentation of Meetings</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/39">Issue #33</a></td><td><a href="https://github.com/microsoft/issues/39"> PR</a></td><td>3<br/>4</td><td>0<br/>0</td><td>0<br>0</td><td>3<br/>4</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Research on MapBox</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/39">Issue #39</a></td><td><a href="https://github.com/microsoft/issues/39"> PR</a></td><td>3<br/>4</td><td>0<br/>0</td><td>0<br>0</td><td>3<br/>4</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Research on MapBox</i></td>
     </tr>
     <tr>
       <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/21">Issue #21</a></td><td><a href="https://github.com/microsoft/issues/21"> PR</a></td><td>8<br/>5</td><td>0<br/>0</td><td>8<br>5</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>75</td><td><i> able to read METADATA from our file but not the PRODUCT DATA. seems to be a module dependecies issue. but we still did not figure out how to solve the problem</i></td>
@@ -53,7 +56,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
     <tr>
       <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/27">Issue #27</a></td><td><a href="https://github.com/microsoft/issues/27"> Reasearch</a></td><td>15<br/>13</td><td>0<br/>0</td><td>15<br>13</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>75</td><td><i> Researching netcdf data structure. searching about modules: xarray, h5netcdf. Try to find out why the PRODUCT data cant be read, even though there are no issues with the METADATA</i></td>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/36">Issue #33</a></td><td><a href="https://github.com/microsoft/issues/36"> PR</a></td><td>3<br/>3</td><td>0<br/>0</td><td>0<br>0</td><td>2<br/>2</td><td>0<br/>0</td><td>1<br/>1</td><td>100</td><td><i> Sprint 1 Rubric Evaluation</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/36">Issue #36</a></td><td><a href="https://github.com/microsoft/issues/36"> PR</a></td><td>3<br/>3</td><td>0<br/>0</td><td>0<br>0</td><td>2<br/>2</td><td>0<br/>0</td><td>1<br/>1</td><td>100</td><td><i> Sprint 1 Rubric Evaluation</i></td>
     </tr>
     <tr>
       <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/22">Issue #22</a></td><td><a href="https://github.com/microsoft/issues/22"> Vid</a></td><td>3<br/>3</td><td>0.5<br/>0.5</td><td>0.5<br>0.5</td><td>0.5<br/>0.5</td><td>0.5<br/>0.5</td><td>0.5<br/>0.5</td><td>100</td><td><i> Video of Sprint</i></td>
