@@ -57,7 +57,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
 |Khalil| This was the first wall that completely stopped me. Tried following documentations, and resources but, alas, to no luck. Had to change my approach and focus more on reasearching. |
 |Brian| During this sprint documentation was more present and I was more proactive about it. Taking note of everything being done as well as keeping issues updated for the kanban board were done however I can improve on making sure that they have been added at an earlier time.|
 |Asher| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|Eric| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Eric| This sprint I focused more on the documentation side of things. I spent most my time working on the sprint report, video transcript, kanban board, and generic research. I could've managed my time better throughout this sprint and should work on things sooner which is something I could improve upon. |
 ### Testing
 
 |Issue | Test File | Feature Tested | Results Summary | 
@@ -168,7 +168,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
 |Khalil| We talked about our shortcomings. and it has improved our flow of work. communication improved a bunch, and we decided to meet with our sponsor weekly instead of bi-weekly. we communicated on what part we are worrking on . and used Kanban board a lot more|
 |Brian| Communication during this sprint has improved in a dramatic way. We started communicating more when finishing tasks and meeting weekly with sponsors as well. We would like to improve on making sure to have a regular team meeting during the week to ensure adequate progress.|
 |Asher| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
-|Eric| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Eric| We had much better communication during this sprint, I like how we had more frequent meetings and delegated tasks more clearly early on in the sprint. While we met more frequently I would like to see us have recurring meetings every week in future sprints. |
 
 ### Retrospective
 
