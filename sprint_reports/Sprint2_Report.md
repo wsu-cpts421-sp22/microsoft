@@ -51,7 +51,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
 |-------------|-------------------|
 |Michael| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
 |Khalil| This was the first wall that completely stopped me. Tried following documentations, and resources but, alas, to no luck. Had to change my approach and focus more on reasearching. |
-|Brian| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Brian| During this sprint documentation was more present and I was more proactive about it. Taking note of everything being done as well as keeping issues updated for the kanban board were done however I can improve on making sure that they have been added at an earlier time.|
 |Asher| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
 |Eric| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
 ### Testing
