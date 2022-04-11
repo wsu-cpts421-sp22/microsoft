@@ -1,10 +1,10 @@
 # Report for Sprint 2: *Astronomalies*
 
 ## Link to Sprint Summary Video
-[Summary video link](https://youtube.com/)
+[Summary video link](https://youtu.be/zJpqaH0YAL8)
 
 ## Link to Online Communication Channel (MS Teams/Slack/Discord)
-[Discord Server link](https://youtube.com/)
+[Teams Server link](https://teams.microsoft.com/l/team/19%3acBEWDZpUinwRPPDffLwMUeqQfQMBbxADWyOBt_X5q3w1%40thread.tacv2/conversations?groupId=87fda352-e01f-4122-957a-6c68b129334b&tenantId=b52be471-f7f1-47b4-a879-0c799bb53db5)
 
 ## Link to Working Prototype
 You can access our team's working prototype at [this site](https://ourapp.herokuapp.com)
