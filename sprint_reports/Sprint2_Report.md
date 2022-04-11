@@ -41,6 +41,8 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
     <tr>
       <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/22">Issue #22</a></td><td><a href="https://github.com/microsoft/issues/22"> Vid</a></td><td>3<br/>3</td><td>0.5<br/>0.5</td><td>0.5<br>0.5</td><td>0.5<br/>0.5</td><td>0.5<br/>0.5</td><td>0.5<br/>0.5</td><td>100</td><td><i> </i></td>
     </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/33">Issue #33</a></td><td><a href="https://github.com/microsoft/issues/33"> PR</a></td><td>3<br/>3</td><td>0<br/>0</td><td>0<br>0</td><td>3<br/>3</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> </i></td>
+    </tr>
     <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>34<br>29</b></td><td><b>3<br>1.5</b></td><td><b>31.5<br>26.5</b></td><td><b>1<br>0.5</b></td><td><b>0.8<br>0.5</b></td><td><b>0.4<br>0.5</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
     </tr>
   </tbody>
