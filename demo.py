@@ -109,9 +109,10 @@ import planetary_computer
 import pystac
 import rasterio #this seems to break when called
 
-#item: pystac.Item = ... # no idea what goes here been trying multiple things but still stuck
-b4_href = planetary_computer.sign(url) #i think this sign the url directly
 
+#item: pystac.Item = ... # no idea what goes here been trying multiple things but still stuck
+print('signing url...')
+b4_href = planetary_computer.sign(url) #i think this sign the url directly
 print(b4_href)
 #this print a url if clicked would download the scene
 
