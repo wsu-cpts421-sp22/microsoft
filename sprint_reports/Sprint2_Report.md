@@ -67,7 +67,19 @@ You can access our team's working prototype at [this site](https://github.com/ws
     </tr>
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/37">Issue #37</a></td><td><a href="https://github.com/microsoft/issues/37"> PR</a></td><td>4<br/>4</td><td>0<br/>0</td><td>0<br>0</td><td>4<br/>4</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Updating and Checking Kanban Board</i></td>
     </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>63<br>59.5</b></td><td><b>1<br>1</b></td><td><b>42<br>27</b></td><td><b>26<br>28</b></td><td><b>1.5<br>1</b></td><td><b>3<br>3</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
+    </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/38">Issue #38</a></td><td><a href="https://github.com/microsoft/issues/38"> PR</a></td><td>3<br/>3</td><td>3<br/>3</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Research</i></td>
+    </tr>
+    </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/34">Issue #34</a></td><td><a href="https://github.com/microsoft/issues/34"> PR</a></td><td>3<br/>3</td><td>3<br/>3</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Research</i></td>
+    </tr>
+    </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/32">Issue #32</a></td><td><a href="https://github.com/microsoft/issues/32"> PR</a></td><td>3<br/>3</td><td>3<br/>3</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Research</i></td>
+    </tr>
+    </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/29">Issue #29</a></td><td><a href="https://github.com/microsoft/issues/29"> PR</a></td><td>3<br/>3</td><td>3<br/>3</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Research</i></td>
+    </tr>
+    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>63<br>59.5</b></td><td><b>14<br>14</b></td><td><b>42<br>27</b></td><td><b>26<br>28</b></td><td><b>1.5<br>1</b></td><td><b>3<br>3</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
     </tr>
   </tbody>
 </table>
@@ -186,7 +198,7 @@ You can access our team's working prototype at [this site](https://github.com/ws
 #### Reflection Statements
 | Team Member | Communication Reflection Statement |
 |-------------|-------------------|
-|Michael| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
+|Michael| I think that our communication was a lot better during this sprint. We made it a goal of this period to focus on communication and I think that commitment paid dividends. We saw lots of benefits from communication and felt like we put together a better product because of it. |
 |Khalil| We talked about our shortcomings. and it has improved our flow of work. communication improved a bunch, and we decided to meet with our sponsor weekly instead of bi-weekly. we communicated on what part we are worrking on . and used Kanban board a lot more|
 |Brian| Communication during this sprint has improved in a dramatic way. We started communicating more when finishing tasks and meeting weekly with sponsors as well. We would like to improve on making sure to have a regular team meeting during the week to ensure adequate progress.|
 |Asher| <*Required*: The above data are unlikely to tell the whole story about your communication. Write a brief statement explaining and reflecting on your communication with your team during this milestone.> |
