@@ -36,7 +36,7 @@ You can access our team's working prototype at [this site](https://ourapp.heroku
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/33">Issue #33</a></td><td><a href="https://github.com/microsoft/issues/33"> PR</a></td><td>3<br/>2</td><td>0<br/>0</td><td>0<br>0</td><td>4<br/>4</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Documentation of Planetary Computer</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/37">Issue #33</a></td><td><a href="https://github.com/microsoft/issues/37"> PR</a></td><td>3<br/>3</td><td>0<br/>0</td><td>0<br>0</td><td>3<br/>3</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Documentation of Meetings</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/30">Issue #33</a></td><td><a href="https://github.com/microsoft/issues/30"> PR</a></td><td>3<br/>3</td><td>0<br/>0</td><td>0<br>0</td><td>3<br/>3</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Documentation of Meetings</i></td>
     </tr>
     </tr>
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/39">Issue #33</a></td><td><a href="https://github.com/microsoft/issues/39"> PR</a></td><td>3<br/>4</td><td>0<br/>0</td><td>0<br>0</td><td>3<br/>4</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Research on MapBox</i></td>
