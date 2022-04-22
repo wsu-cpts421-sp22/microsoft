@@ -74,10 +74,10 @@ const useDateRange = (props) => {
     
     const dateComponent = (
         <div style={styles.container}>
-            <LocalizationProvider dateAdapter={AdapterDateFns}>
-                <div style={styles.dateContainer}>
-                    <span style={styles.dateContainerTitle}>Start Date:</span>
-                    <DatePicker
+             <LocalizationProvider dateAdapter={AdapterDateFns}>
+                 <div style={styles.dateContainer}>
+                     <span style={styles.dateContainerTitle}>Start Date:</span>
+                     {/* <DatePicker
                         maxDate={new Date()}
                         value={startDate}
                         onChange={(newValue) => {
@@ -90,11 +90,11 @@ const useDateRange = (props) => {
                             }
                         }}
                         renderInput={(params) => <TextField {...params} />}
-                    />
-                </div>
-                <div style={styles.dateContainer}>
-                    <span style={styles.dateContainerTitle}>End Date:</span>
-                    <DatePicker
+                    /> */}
+                 </div>
+                 {/* <div style={styles.dateContainer}>
+                     <span style={styles.dateContainerTitle}>End Date:</span>
+                     <DatePicker
                         maxDate={new Date()}
                         value={endDate}
                         onChange={(newValue) => {
@@ -108,8 +108,8 @@ const useDateRange = (props) => {
                         }}
                         renderInput={(params) => <TextField {...params} />}
                     />
-                </div>
-                <div style={{...styles.dateContainer, width: '100%', marginRight: '0px'}}>
+                </div> */}
+                {/* <div style={{...styles.dateContainer, width: '100%', marginRight: '0px'}}>
                     <span style={styles.dateContainerTitle}>Visualize Range:</span>
                     <Slider
                         size="large"
@@ -120,7 +120,7 @@ const useDateRange = (props) => {
                         marks={true}
                         onChangeCommitted={(e,v) => setSliderPos(v)}
                     />
-                </div>
+                </div> */}
             </LocalizationProvider>
         </div>
     );
