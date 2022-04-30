@@ -10,22 +10,9 @@ from datetime import datetime, timezone
 # Not used directly, but needs to be installed to read NetCDF files with xarray
 import h5netcdf
 
-input_date = input('enter date [yyyy/mm/dd]: ')
-input_gas = input('enter your choice of Gas (O3 / NO2 / CH4): ')
-
-if input_gas == 'CH4':
-    product = 'L2__CH4___'
-else:
-    if input_gas == 'NO2':
-        product = 'L2__NO2___'
-    else:
-        product = 'L2__O3____'
-
-# Let's look at ozone concentration from mid-day on Jan 1, 2021
-#product = 'L2__O3____'
-date = input_date
-
-print('checking Auth Token ...')
+#sign URL
+import planetary_computer
+import pystac
 
 def get_Token_Data():
     http = urllib3.PoolManager()
@@ -52,81 +39,96 @@ def checkToken(jsonData):
         print('token still Valid! expiration Time ', currTime)
         return 1
 
-sas_path = './tokens/sentinel-5p_sas.json'
-is_empty = is_file_empty(sas_path)
+def main():
+    input_date = input('enter date [yyyy/mm/dd]: ')
+    input_gas = input('enter your choice of Gas (O3 / NO2 / CH4): ')
 
-if is_empty != 0:
-    with open(sas_path, 'r+') as f:
-        data = json.load(f)
-        if checkToken(data):
-            sas_token=data['token']
+    if input_gas == 'CH4':
+        product = 'L2__CH4___'
+    else:
+        if input_gas == 'NO2':
+            product = 'L2__NO2___'
         else:
+            product = 'L2__O3____'
+
+    # Let's look at ozone concentration from mid-day on Jan 1, 2021
+    #product = 'L2__O3____'
+    date = input_date
+
+    print('checking Auth Token ...')
+
+    sas_path = './tokens/sentinel-5p_sas.json'
+    is_empty = is_file_empty(sas_path)
+
+    if is_empty != 0:
+        with open(sas_path, 'r+') as f:
+            data = json.load(f)
+            if checkToken(data):
+                sas_token=data['token']
+            else:
+                newData = get_Token_Data()
+                sas_token = newData['token']
+                f.seek(0)
+                json.dump(newData, f)
+    else:
+        with open(sas_path, 'r+') as f:
             newData = get_Token_Data()
             sas_token = newData['token']
             f.seek(0)
             json.dump(newData, f)
-else:
-    with open(sas_path, 'r+') as f:
-        newData = get_Token_Data()
-        sas_token = newData['token']
-        f.seek(0)
-        json.dump(newData, f)
 
-print('Token is Valid')
+    print('Token is Valid')
 
-storage_account_name = 'sentinel5euwest'
-container_name = 'sentinel-5p'
-storage_account_url = 'https://' + storage_account_name + '.blob.core.windows.net/'
+    storage_account_name = 'sentinel5euwest'
+    container_name = 'sentinel-5p'
+    storage_account_url = 'https://' + storage_account_name + '.blob.core.windows.net/'
 
-container_client = ContainerClient(account_url=storage_account_url, 
-                                                container_name=container_name,
-                                                credential=sas_token)
+    container_client = ContainerClient(account_url=storage_account_url, 
+                                                    container_name=container_name,
+                                                    credential=sas_token)
 
-prefix = '/'.join(['TROPOMI',product,date])
-print('Searching for prefix {}'.format(prefix))
-generator = container_client.list_blobs(name_starts_with=prefix)
-scene_paths = [blob.name for blob in generator]
-print('\nFound {} matching scenes:\n'.format(len(scene_paths)))
-for s in scene_paths:
-    print(s.split('/')[-1])
+    prefix = '/'.join(['TROPOMI',product,date])
+    print('Searching for prefix {}'.format(prefix))
+    generator = container_client.list_blobs(name_starts_with=prefix)
+    scene_paths = [blob.name for blob in generator]
+    print('\nFound {} matching scenes:\n'.format(len(scene_paths)))
+    for s in scene_paths:
+        print(s.split('/')[-1])
 
 
-#Print metadata of one scene
+    #Print metadata of one scene
 
-#different gas use different sc_mode, default CH4
-sc_mode = 'OFFL'
-if (product == 'L2__NO2___'):
-    sc_mode = 'NRTI'
-#need to add sc_mode for the other gases. will probably move this part to the beginning
+    #different gas use different sc_mode, default CH4
+    sc_mode = 'OFFL'
+    if (product == 'L2__NO2___'):
+        sc_mode = 'NRTI'
+    #need to add sc_mode for the other gases. will probably move this part to the beginning
 
-offl_scenes = [s for s in scene_paths if sc_mode in s]
-scene_path = offl_scenes[len(offl_scenes) // 2]
-url = storage_account_url + container_name + '/' + scene_path
-print('Processing image at URL:\n{}'.format(url))
+    offl_scenes = [s for s in scene_paths if sc_mode in s]
+    scene_path = offl_scenes[len(offl_scenes) // 2]
+    url = storage_account_url + container_name + '/' + scene_path
+    print('Processing image at URL:\n{}'.format(url))
 
-#sign URL
-import planetary_computer
-import pystac
-import rasterio #this seems to break when called
+    #item: pystac.Item = ... # no idea what goes here been trying multiple things but still stuck
+    print('signing url...')
+    b4_href = planetary_computer.sign(url) #i think this sign the url directly
+    print(b4_href)
+    #this print a url if clicked would download the scene
 
+    print('opening file...')
+    with fsspec.open(b4_href) as f1:
+        ds1 = h5netcdf.File(f1, 'r')
+        print(ds1)
 
-#item: pystac.Item = ... # no idea what goes here been trying multiple things but still stuck
-print('signing url...')
-b4_href = planetary_computer.sign(url) #i think this sign the url directly
-print(b4_href)
-#this print a url if clicked would download the scene
+    ##print metadata
+    import warnings; warnings.filterwarnings('ignore')
 
-print('opening file...')
-with fsspec.open(b4_href) as f1:
-    ds1 = h5netcdf.File(f1, 'r')
-    print(ds1)
+    print('loading METADATA')
 
-##print metadata
-import warnings; warnings.filterwarnings('ignore')
+    with fsspec.open(b4_href) as f:
+        ds = xr.open_dataset(f)    
+    print('=METADATA===================================')
+    print(ds)
 
-print('loading METADATA')
-
-with fsspec.open(b4_href) as f:
-    ds = xr.open_dataset(f)    
-print('=METADATA===================================')
-print(ds)
+if __name__ == "__main__":
+    main()
