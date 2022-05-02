@@ -202,11 +202,11 @@ You can access our team's working prototype at [this site](https://github.com/ws
 #### Reflection Statements
 | Team Member | Communication Reflection Statement |
 |-------------|-------------------|
-|Michael| I think that our communication was a lot better during this sprint. We made it a goal of this period to focus on communication and I think that commitment paid dividends. We saw lots of benefits from communication and felt like we put together a better product because of it. |
-|Khalil| We talked about our shortcomings. and it has improved our flow of work. communication improved a bunch, and we decided to meet with our sponsor weekly instead of bi-weekly. we communicated on what part we are worrking on . and used Kanban board a lot more|
-|Brian| Communication during this sprint has improved in a dramatic way. We started communicating more when finishing tasks and meeting weekly with sponsors as well. We would like to improve on making sure to have a regular team meeting during the week to ensure adequate progress.|
-|Asher| Our communication was definitly better this sprint. I think in the future we can prioritize planning the logistics of the sprint report / video at the beginning of the sprint and apply better estimates to the story points vs time input requirements. |
-|Eric| We had much better communication during this sprint, I like how we had more frequent meetings and delegated tasks more clearly early on in the sprint. While we met more frequently I would like to see us have recurring meetings every week in future sprints. |
+|Michael| |
+|Khalil| |
+|Brian| Communication was great during this sprint we have made drastic progress in our communication throughout this semester and it's a priority to keep this effectiveness in communication for our next semester. |
+|Asher| |
+|Eric|  |
 
 ### Retrospective
 
