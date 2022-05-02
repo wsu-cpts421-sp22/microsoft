@@ -217,9 +217,9 @@ You can access our team's working prototype at [this site](https://github.com/ws
   - The amount of success and work that was done was really great and we kept a good stream of communication throughout these completions. This was a constant problem during the beginning of the semester and will refinements can be made we ultimately found a rhythm that will help us succeed.
   
  #### What we'd like to improve
-  - Time management is something some of us struggled with this this sprint, we ending up working on issues closer to the deadline rather than earlier. We'd like to do our work more proactively in the future.
-  - We had some problems this sprint dealing with external variables, some of us had midterms and other coursework come up this week which hurt out productivity and timeliness. We will try to have better time management in the future to avoid this.
-  - Response times were a bit slow and something we look to improve. Some members had problems with Teams' notificiations which we are looking into getting resolved.
+  - We would like to keep ourselves more organized for future sprints. We know that for future sprints the amount of files and workload will increase and keeping a organized structure will help with keeping our work easy to find.
+  - Another thing that we would like to improve upon is the amount of documentation that is being and the time of which it is being done. We do the work that is needed to be successful in our sprint however struggle to remember to document the amount of work. 
+  - Now that we have improved in our effectiveness we would like to focus on the finer details that we can improve upon. One in particular would be to make sure to keep notes on the feedback by the professor for our sprints and avoid the small mistakes.
   
 #### Changes we plan to implement in next sprint period
   - We would like to have recurring weekliy meetings between us 5 members. Kind of like stand-up meetings, we would like to have some time each week to go over what everyone is doing and what our progress is looking like. This will also help us with working on the project more throughout the sprint rather than more towards the end of the sprint.
