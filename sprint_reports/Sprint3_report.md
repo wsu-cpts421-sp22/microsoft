@@ -210,7 +210,7 @@ You can access our team's working prototype at [this site](https://github.com/ws
 
 ### Retrospective
 
-[Link to Recording](https://emailwsu.sharepoint.com/:v:/r/teams/2022.PULLM.CptS.421.423-Microsoft/Shared%20Documents/Recordings/Microsoft-20220502_023613-Meeting%20Recording.mp4?csf=1&web=1&e=9cyOjh)
+[Link to Recording](https://emailwsu.sharepoint.com/teams/2022.PULLM.CptS.421.423-Microsoft/Shared%20Documents/Recordings/Microsoft-20220502_023613-Meeting%20Recording.mp4?web=1)
 
 #### What went well
   - Our time management for this sprint was something we drastically improved throughout this sprint. We set expecations for each other and held each other acccountable and when asked about the progression of the assignment we were working on it rather than putting it behind for last minute.
