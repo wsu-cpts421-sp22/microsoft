@@ -92,7 +92,7 @@ You can access our team's working prototype at [this site](https://github.com/ws
 | Team Member | Contribution Reflection Statement |
 |-------------|-------------------|
 |Michael| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|Khalil| |
+|Khalil| I had set goals from the get go, and worked towards them whenver I got the chance. the ending of the semester is always busy. but I was able to meet my goals. Would loved if I had more time to clean up, and download more data scene files|
 |Brian| During this sprint I felt that I was effective about my tasks. I completed the tasks in a timely manner which helped prevent the disruption of progress for our team. My only flaw during this sprint was not documenting on the time tables for our report in a more effective way. |
 |Asher|  |
 |Eric||
@@ -203,7 +203,7 @@ You can access our team's working prototype at [this site](https://github.com/ws
 | Team Member | Communication Reflection Statement |
 |-------------|-------------------|
 |Michael| |
-|Khalil| |
+|Khalil| Team was able to communicate their set goals. and deliver open those expectations. We were checking on each other along the way, making sure not to fall behind. Can really see the progress we made. |
 |Brian| Communication was great during this sprint we have made drastic progress in our communication throughout this semester and it's a priority to keep this effectiveness in communication for our next semester. |
 |Asher| |
 |Eric|  |
