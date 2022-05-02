@@ -47,15 +47,17 @@ You can access our team's working prototype at [this site](https://github.com/ws
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/45">Issue #45</a></td><td> </a></td><td>0<br/>0</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>2</td><td>100</td><td><i> </i></td>
     </tr>   
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/55">Issue #55</a></td><td></a></td><td>13<br/>13</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>50</td><td><i> </i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/55">Issue #55</a></td><td></a></td><td>13<br/>13</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>1<br/>2</td><td>0<br/>0</td><td>50</td><td><i> </i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/56">Issue #56</a></td><td></a></td><td>3<br/>3</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> </i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/56">Issue #56</a></td><td></a></td><td>3<br/>3</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>1<br/>1</td><td>0<br/>0</td><td>100</td><td><i> </i></td>
     </tr>
     </tr>
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/57">Issue #57</a></td><td></a></td><td>5<br/>5</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> </i></td>
     </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>35<br>35</b></td><td><b>21<br>21</b></td><td><b>14<br>14</b></td><td><b>0<br>0</b></td><td>0<b><br>0</b></td><td><b>0<br>0</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
+        <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/46">Issue #46</a></td><td></a></td><td>5<br/>5</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>5<br/>23</td><td>0<br/>0</td><td>100</td><td><i>As a user, I should be able to visualize a time-series of changes in the gas</i></td>
+    </tr>
+    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>35<br>35</b></td><td><b>21<br>21</b></td><td><b>14<br>14</b></td><td><b>0<br>0</b></td><td>0<b><br>26</b></td><td><b>0<br>0</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
     </tr>
   </tbody>
 </table>
@@ -66,7 +68,7 @@ You can access our team's working prototype at [this site](https://github.com/ws
 |Michael| I think that this sprint really well for me. I was able to add tests and work on the final project draft. I also was able to work on deploying our website to azure web services. |
 |Khalil| I had set goals from the get go, and worked towards them whenver I got the chance. the ending of the semester is always busy. but I was able to meet my goals. Would loved if I had more time to clean up, and download more data scene files|
 |Brian| During this sprint I felt that I was effective about my tasks. I completed the tasks in a timely manner which helped prevent the disruption of progress for our team. My only flaw during this sprint was not documenting on the time tables for our report in a more effective way. |
-|Asher|  |
+|Asher| I think this sprint went quite well despite the complications with finals. I accomplished the goal of creating a timeseries component and went beyond to create 6 chart variations that we could employ with the live data in the future. |
 |Eric| Although finals coming up made it tougher to manage time, I was able to complete the tasks and goals I set forth. I started working on sprint 3 much earlier than I had in previous sprint which I would attribute a lot my success to. |
 ### Testing
 
@@ -194,7 +196,7 @@ You can access our team's working prototype at [this site](https://github.com/ws
 |Michael| I think our communication went really well this sprint. We met multiple times and split the work evenly. We have constantly improved our communication every sprint and I think that we are at a really good spot going into the summer. |
 |Khalil| Team was able to communicate their set goals. and deliver open those expectations. We were checking on each other along the way, making sure not to fall behind. Can really see the progress we made. |
 |Brian| Communication was great during this sprint we have made drastic progress in our communication throughout this semester and it's a priority to keep this effectiveness in communication for our next semester. |
-|Asher| |
+|Asher| I believe we have made great progress in terms of communication and teamwork since our previous sprint. We've also had a better handle on documentation and setting expectations for each group member. In the future, I think we still have room to improve our documentation further. |
 |Eric| Communication was pretty good, we set clear goals early on during the sprint which made everything much easier. Had team meetings for the first couple weeks of the sprint but would like to see us set a dedicated time to meet every week in the future. |
 
 ### Retrospective
