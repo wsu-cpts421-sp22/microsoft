@@ -102,7 +102,7 @@ You can access our team's working prototype at [this site](https://github.com/ws
     <tr>
      <td>5/1/22</td><td>26</td><td>5</td><td>5</td><td>1</td><td>6</td><td>9</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>43</b></td><td><b>7</b></td><td><b>14</b></td><td><b>8</b></td><td><b>13</b></td><td><b>1</b></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>71</b></td><td><b>20</b></td><td><b>12</b></td><td><b>6</b></td><td><b>14</b></td><td><b>19</b></td>
     </tr>
   </tbody>
 </table>
