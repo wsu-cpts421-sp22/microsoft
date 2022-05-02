@@ -7,7 +7,7 @@
 [Teams Server link](https://teams.microsoft.com/l/team/19%3acBEWDZpUinwRPPDffLwMUeqQfQMBbxADWyOBt_X5q3w1%40thread.tacv2/conversations?groupId=87fda352-e01f-4122-957a-6c68b129334b&tenantId=b52be471-f7f1-47b4-a879-0c799bb53db5)
 
 ## Link to Working Prototype
-You can access our team's working prototype at [this site](https://github.com/wsu-cpts421-sp22/microsoft/blob/main/README.md)
+You can access our team's working prototype at [this site](https://github.com/wsu-cpts421-sp22/microsoft/blob/main/frontend/README.md)
 *(If your working prototype is not deployed to the web, then provide instructions here for downloading/installing your prototype)*
 
 ## Team members
@@ -210,7 +210,7 @@ You can access our team's working prototype at [this site](https://github.com/ws
 
 ### Retrospective
 
-[Link to Recording](https://emailwsu.sharepoint.com/teams/2022.PULLM.CptS.421.423-Microsoft/Shared%20Documents/Recordings/Microsoft-20220411_000845-Meeting%20Recording.mp4?web=1)
+[Link to Recording](https://emailwsu.sharepoint.com/:v:/r/teams/2022.PULLM.CptS.421.423-Microsoft/Shared%20Documents/Recordings/Microsoft-20220502_023613-Meeting%20Recording.mp4?csf=1&web=1&e=9cyOjh)
 
 #### What went well
   - Our time management for this sprint was something we drastically improved throughout this sprint. We set expecations for each other and held each other acccountable and when asked about the progression of the assignment we were working on it rather than putting it behind for last minute.
