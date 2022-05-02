@@ -40,13 +40,7 @@ You can access our team's working prototype at [this site](https://github.com/ws
     </tr>
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/50">Issue #50</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/51"> PR51 </a></td><td>5<br/>4</td><td>0<br/>0</td><td>5<br>4</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>20</td><td><i> Was not needed. wanted to show s simple map with matlab. but it was too ambitious</i></td>
     </tr>
-    </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/50">Issue #43</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/52"> PR52 </a></td><td>5<br/>4</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>3<br/>10</td><td>100</td><td><i> Able to read data from OpenAQ</i></td>
-    </tr>
-    </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/45">Issue #45</a></td><td> </a></td><td>0<br/>0</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>2</td><td>100</td><td><i> </i></td>
-    </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>14<br>14</b></td><td><b>0<br>0</b></td><td><b>14<br>14</b></td><td><b>0<br>0</b></td><td>0<b><br>0</b></td><td><b>3<br>12</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
+    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>14<br>14</b></td><td><b>0<br>0</b></td><td><b>14<br>14</b></td><td><b>0<br>0</b></td><td>0<b><br>0</b></td><td><b>0<br>0</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
     </tr>
   </tbody>
 </table>
@@ -54,11 +48,11 @@ You can access our team's working prototype at [this site](https://github.com/ws
 #### Reflection Statements
 | Team Member | Contribution Reflection Statement |
 |-------------|-------------------|
-|Michael| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Michael| I think that this sprint really well for me. I was able to add tests and work on the final project draft. I also was able to work on deploying our website to azure web services. |
 |Khalil| I had set goals from the get go, and worked towards them whenver I got the chance. the ending of the semester is always busy. but I was able to meet my goals. Would loved if I had more time to clean up, and download more data scene files|
 |Brian| During this sprint I felt that I was effective about my tasks. I completed the tasks in a timely manner which helped prevent the disruption of progress for our team. My only flaw during this sprint was not documenting on the time tables for our report in a more effective way. |
 |Asher|  |
-|Eric| Although finals coming up made it tougher to manage time, I was able to complete the tasks and goals I set forth. I started working on sprint 3 much earlier than I had in previous sprint which I would attribute a lot my success to. |
+|Eric| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
 ### Testing
 
 |Issue | Test File | Feature Tested | Results Summary | 
@@ -182,11 +176,11 @@ You can access our team's working prototype at [this site](https://github.com/ws
 #### Reflection Statements
 | Team Member | Communication Reflection Statement |
 |-------------|-------------------|
-|Michael| |
+|Michael| I think our communication went really well this sprint. We met multiple times and split the work evenly. We have constantly improved our communication every sprint and I think that we are at a really good spot going into the summer. |
 |Khalil| Team was able to communicate their set goals. and deliver open those expectations. We were checking on each other along the way, making sure not to fall behind. Can really see the progress we made. |
 |Brian| Communication was great during this sprint we have made drastic progress in our communication throughout this semester and it's a priority to keep this effectiveness in communication for our next semester. |
 |Asher| |
-|Eric| Communication was pretty good, we set clear goals early on during the sprint which made everything much easier. Had team meetings for the first couple weeks of the sprint but would like to see us set a dedicated time to meet every week in the future. |
+|Eric|  |
 
 ### Retrospective
 
