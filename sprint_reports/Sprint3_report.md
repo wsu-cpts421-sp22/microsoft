@@ -213,8 +213,8 @@ You can access our team's working prototype at [this site](https://github.com/ws
 [Link to Recording](https://emailwsu.sharepoint.com/teams/2022.PULLM.CptS.421.423-Microsoft/Shared%20Documents/Recordings/Microsoft-20220411_000845-Meeting%20Recording.mp4?web=1)
 
 #### What went well
-  - We were overall much more active and effective with our communication, we are having meeetings more often with each other and with our sponsor as well.
-  - Did a much better job of delegating and documenting our tasks. We had a meeting early on in the sprint for task delegation and throughout the sprint we were much better about documenting everything in github than we were in our previous sprint.
+  - Our time management for this sprint was something we drastically improved throughout this sprint. We set expecations for each other and held each other acccountable and when asked about the progression of the assignment we were working on it rather than putting it behind for last minute.
+  - The amount of success and work that was done was really great and we kept a good stream of communication throughout these completions. This was a constant problem during the beginning of the semester and will refinements can be made we ultimately found a rhythm that will help us succeed.
   
  #### What we'd like to improve
   - Time management is something some of us struggled with this this sprint, we ending up working on issues closer to the deadline rather than earlier. We'd like to do our work more proactively in the future.
