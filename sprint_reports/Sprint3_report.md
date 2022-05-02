@@ -1,7 +1,7 @@
 # Report for Sprint 3: *Astronomalies*
 
 ## Link to Sprint Summary Video
-[Summary video link](https://youtu.be/HsuPjH5oHOk)
+[Summary video link](https://youtube.com)
 
 ## Link to Online Communication Channel (MS Teams/Slack/Discord)
 [Teams Server link](https://teams.microsoft.com/l/team/19%3acBEWDZpUinwRPPDffLwMUeqQfQMBbxADWyOBt_X5q3w1%40thread.tacv2/conversations?groupId=87fda352-e01f-4122-957a-6c68b129334b&tenantId=b52be471-f7f1-47b4-a879-0c799bb53db5)
@@ -40,7 +40,13 @@ You can access our team's working prototype at [this site](https://github.com/ws
     </tr>
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/50">Issue #50</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/51"> PR51 </a></td><td>5<br/>4</td><td>0<br/>0</td><td>5<br>4</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>20</td><td><i> Was not needed. wanted to show s simple map with matlab. but it was too ambitious</i></td>
     </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>14<br>14</b></td><td><b>0<br>0</b></td><td><b>14<br>14</b></td><td><b>0<br>0</b></td><td>0<b><br>0</b></td><td><b>0<br>0</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
+    </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/50">Issue #43</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/52"> PR52 </a></td><td>5<br/>4</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>3<br/>10</td><td>100</td><td><i> Able to read data from OpenAQ</i></td>
+    </tr>
+    </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/45">Issue #45</a></td><td> </a></td><td>0<br/>0</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>2</td><td>100</td><td><i> </i></td>
+    </tr>
+    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>14<br>14</b></td><td><b>0<br>0</b></td><td><b>14<br>14</b></td><td><b>0<br>0</b></td><td>0<b><br>0</b></td><td><b>3<br>12</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
     </tr>
   </tbody>
 </table>
@@ -52,7 +58,7 @@ You can access our team's working prototype at [this site](https://github.com/ws
 |Khalil| I had set goals from the get go, and worked towards them whenver I got the chance. the ending of the semester is always busy. but I was able to meet my goals. Would loved if I had more time to clean up, and download more data scene files|
 |Brian| During this sprint I felt that I was effective about my tasks. I completed the tasks in a timely manner which helped prevent the disruption of progress for our team. My only flaw during this sprint was not documenting on the time tables for our report in a more effective way. |
 |Asher|  |
-|Eric||
+|Eric| Although finals coming up made it tougher to manage time, I was able to complete the tasks and goals I set forth. I started working on sprint 3 much earlier than I had in previous sprint which I would attribute a lot my success to. |
 ### Testing
 
 |Issue | Test File | Feature Tested | Results Summary | 
@@ -180,11 +186,11 @@ You can access our team's working prototype at [this site](https://github.com/ws
 |Khalil| Team was able to communicate their set goals. and deliver open those expectations. We were checking on each other along the way, making sure not to fall behind. Can really see the progress we made. |
 |Brian| Communication was great during this sprint we have made drastic progress in our communication throughout this semester and it's a priority to keep this effectiveness in communication for our next semester. |
 |Asher| |
-|Eric|  |
+|Eric| Communication was pretty good, we set clear goals early on during the sprint which made everything much easier. Had team meetings for the first couple weeks of the sprint but would like to see us set a dedicated time to meet every week in the future. |
 
 ### Retrospective
 
-[Link to Recording](https://emailwsu.sharepoint.com/:v:/r/teams/2022.PULLM.CptS.421.423-Microsoft/Shared%20Documents/Recordings/Microsoft-20220502_023613-Meeting%20Recording.mp4?csf=1&web=1&e=d9ADHF)
+[Link to Recording](https://emailwsu.sharepoint.com/teams/2022.PULLM.CptS.421.423-Microsoft/Shared%20Documents/Recordings/Microsoft-20220502_023613-Meeting%20Recording.mp4?web=1)
 
 #### What went well
   - Our time management for this sprint was something we drastically improved throughout this sprint. We set expecations for each other and held each other acccountable and when asked about the progression of the assignment we were working on it rather than putting it behind for last minute.
