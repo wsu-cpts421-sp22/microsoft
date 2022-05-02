@@ -42,18 +42,18 @@ const ChartsDemoModal = (props) => {
             <Button onClick={props.closeCharts} style={styles.closeButton}>Close Charts</Button>
             <div style={styles.inner}>
                 <div style={{display: 'flex', flexDirection: 'row'}}>
-                    <div style={{width: '50%', height: '300px', margin: '45px'}}>
+                    <div style={{width: '50%', height: '420px', margin: '45px'}}>
                         <BarChart />
                     </div>
-                    <div style={{width: '50%', height: '300px', margin: '45px'}}>
+                    <div style={{width: '50%', height: '420px', margin: '45px'}}>
                         <StackedBarChart />
                     </div>
                 </div>
                 <div style={{display: 'flex', flexDirection: 'row'}}>
-                    <div style={{width: '50%', height: '300px', margin: '45px'}}>
+                    <div style={{width: '50%', height: '420px', margin: '45px'}}>
                         <MultiAxisLineChart />
                     </div>
-                    <div style={{width: '50%', height: '300px', margin: '45px'}}>
+                    <div style={{width: '50%', height: '420px', margin: '45px'}}>
                         <MultiTypeChart />
                     </div>
                 </div>

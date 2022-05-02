@@ -59,7 +59,7 @@ const MapPage = (props) => {
   const [initializingMap, setInitializingMap] = useState(true);
   const [loading, setLoading] = useState(true);
 
-  const [showCharts, setShowCharts] = useState(true);
+  const [showCharts, setShowCharts] = useState(false);
 
   const { 
     setSliderPos,

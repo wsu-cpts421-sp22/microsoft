@@ -2,6 +2,7 @@ import React from 'react';
 import { Button, Input } from 'reactstrap';
 import { SupportedGasses } from '../../Constants/SupportedGasses';
 import logo from '../../Assets/logo.png';
+import { ChartSideBar } from '../ChartsDemoModal/ChartsSideBar';
 
 const styles = {
     container: {
@@ -76,7 +77,8 @@ const Navigation = ({gas, setGas, openCharts}) => {
                     </Input>
                 </div>
                 <div style={styles.inputContainer}>
-                    <Button style={{height: '50px', margin: 'auto', marginLeft: '15px'}} onClick={openCharts}>Show Charts</Button>
+                    <Button style={{height: '24px', margin: '0px', marginBottom: '12px', marginLeft: '15px'}} onClick={openCharts}>Show Charts</Button>
+                    <ChartSideBar />
                 </div>
             </div>
         </div>

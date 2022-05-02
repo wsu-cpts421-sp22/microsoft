@@ -4,8 +4,8 @@ import { appGrey } from "../../Constants/Colors";
 const styles = {
     container: {
         position: 'fixed',
-        bottom: '99px',
-        right: '15px',
+        bottom: '120px',
+        right: '6px',
         display: 'flex',
         padding: '9px',
         fontWeight: 'bold',
