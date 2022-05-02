@@ -1,7 +1,7 @@
-# Report for Sprint 2: *Astronomalies*
+# Report for Sprint 3: *Astronomalies*
 
 ## Link to Sprint Summary Video
-[Summary video link](https://youtu.be/zJpqaH0YAL8)
+[Summary video link](https://youtube.com)
 
 ## Link to Online Communication Channel (MS Teams/Slack/Discord)
 [Teams Server link](https://teams.microsoft.com/l/team/19%3acBEWDZpUinwRPPDffLwMUeqQfQMBbxADWyOBt_X5q3w1%40thread.tacv2/conversations?groupId=87fda352-e01f-4122-957a-6c68b129334b&tenantId=b52be471-f7f1-47b4-a879-0c799bb53db5)
@@ -92,10 +92,10 @@ You can access our team's working prototype at [this site](https://github.com/ws
 | Team Member | Contribution Reflection Statement |
 |-------------|-------------------|
 |Michael| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|Khalil| This was the first wall that completely stopped me. Tried following documentations, and resources but, alas, to no luck. Had to change my approach and focus more on reasearching. |
-|Brian| During this sprint documentation was more present and I was more proactive about it. Taking note of everything being done as well as keeping issues updated for the kanban board were done however I can improve on making sure that they have been added at an earlier time.|
-|Asher| This sprint I focused on implementing the time range component which will allow the user to add a start / end date to the frontend, then iterate between those dates using a slider to visualize the change. I also built a loading component that is presented whenever a query will be ran. |
-|Eric| This sprint I focused more on the documentation side of things. I spent most my time working on the sprint report, video transcript, kanban board, and generic research. I could've managed my time better throughout this sprint and should work on things sooner which is something I could improve upon. |
+|Khalil| |
+|Brian| During this sprint I felt that I was effective about my tasks. I completed the tasks in a timely manner which helped prevent the disruption of progress for our team. My only flaw during this sprint was not documenting on the time tables for our report in a more effective way. |
+|Asher|  |
+|Eric||
 ### Testing
 
 |Issue | Test File | Feature Tested | Results Summary | 
