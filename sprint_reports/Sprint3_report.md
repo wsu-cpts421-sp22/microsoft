@@ -144,12 +144,12 @@ You can access our team's working prototype at [this site](https://github.com/ws
   </thead> 
   <tbody>
     <tr>
-      <td>3/30/22</td><td>15</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
+      <td>4/13/22</td><td>15</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
      <tr>
-      <td>4/5/22</td><td>15</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td></td>
+      <td>5/1/22</td><td>20</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>30</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>1</b></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>35</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td>
     </tr>
   </tbody>
 </table>
