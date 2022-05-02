@@ -46,7 +46,16 @@ You can access our team's working prototype at [this site](https://github.com/ws
     </tr>
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/45">Issue #45</a></td><td> </a></td><td>0<br/>0</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>2</td><td>100</td><td><i> </i></td>
     </tr>   
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>14<br>14</b></td><td><b>0<br>0</b></td><td><b>14<br>14</b></td><td><b>0<br>0</b></td><td>0<b><br>0</b></td><td><b>0<br>0</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
+    </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/55">Issue #55</a></td><td></a></td><td>13<br/>13</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>50</td><td><i> </i></td>
+    </tr>
+    </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/56">Issue #56</a></td><td></a></td><td>3<br/>3</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> </i></td>
+    </tr>
+    </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/57">Issue #57</a></td><td></a></td><td>5<br/>5</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> </i></td>
+    </tr>
+    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>35<br>35</b></td><td><b>21<br>21</b></td><td><b>14<br>14</b></td><td><b>0<br>0</b></td><td>0<b><br>0</b></td><td><b>0<br>0</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
     </tr>
   </tbody>
 </table>
