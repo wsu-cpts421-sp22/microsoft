@@ -222,6 +222,6 @@ You can access our team's working prototype at [this site](https://github.com/ws
   - Now that we have improved in our effectiveness we would like to focus on the finer details that we can improve upon. One in particular would be to make sure to keep notes on the feedback by the professor for our sprints and avoid the small mistakes.
   
 #### Changes we plan to implement in next sprint period
-  - We would like to have recurring weekliy meetings between us 5 members. Kind of like stand-up meetings, we would like to have some time each week to go over what everyone is doing and what our progress is looking like. This will also help us with working on the project more throughout the sprint rather than more towards the end of the sprint.
-  -  This sprint we meet and delegated tasks early which was great but were not as proactive with documentating the tasks that were delagated. In future sprints we will look to create all the tasks in github and document them at the start of the sprint.
-  - As mentioned previously, another one of our goals going forward is to start working earlier during the sprints. In both sprint 1 and 2 we did a lot of the work later on in the sprint which caused us unnecessary stress.
+  - We will keep a greater emphasis on the smaller things that we can improve upon and make sure to layout a foundation that will keep us from losing our effectiveness.
+  -  We also would like to keep the structure we currently have for our fall semester. Our summer break will be a challenge as this may interrupt the foundation we have built for completing our sprints. For this we hope that we can communicate and set goals that we will accomplish to keep the process we have.
+  - Assessing the feedback given by the professor will be something we hope to put more emphasis on to prevent further repetition of the same mistakes being made throughout the sprints.
