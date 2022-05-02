@@ -119,12 +119,15 @@ You can access our team's working prototype at [this site](https://github.com/ws
   </thead> 
   <tbody>
     <tr>
-      <td>3/30/22</td><td>29</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
+      <td>4/13/22</td><td>25</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
      <tr>
-      <td>4/6/22</td><td>28</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td></td>
+      <td>4/20/22</td><td>20</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>57</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>1</b></td>
+    <tr>
+      <td>4/27/22</td><td>25</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
+    </tr>
+    <tr><td align="right"><b>Totals:</b></td><td><b>70</b></td><td><b>3</b></td><td><b>3</b></td><td><b>3</b></td><td><b>3</b></td><td><b>3</b></td>
     </tr>
   </tbody>
 </table>
