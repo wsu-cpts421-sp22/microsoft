@@ -73,20 +73,34 @@ You can access our team's working prototype at [this site](https://github.com/ws
     </tr>
   </thead> 
   <tbody>
-    <tr>
-      <td>3/28/22</td><td>16</td><td>5</td><td>2</td><td>4</td><td>4</td><td>1</td>
+     <td>4/11/22</td><td>6</td><td>1</td><td>3</td><td>0</td><td>2</td><td>0</td>
     </tr>
     <tr>
-     <td>4/2/22</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td>
+     <td>4/12/22</td><td>3</td><td>1</td><td>0</td><td>1</td><td>0</td><td>1</td>
     </tr>
     <tr>
-     <td>4/3/22</td><td>4</td><td>0</td><td>1</td><td>1</td><td>2</td><td>0</td>
+     <td>4/13/22</td><td>3</td><td>2</td><td>0</td><td>1</td><td>0</td><td>0</td>
     </tr>
     <tr>
-     <td>4/5/22</td><td>7</td><td>2</td><td>3</td><td>0</td><td>2</td><td>0</td>
+     <td>4/20/22</td><td>5</td><td>2</td><td>0</td><td>0</td><td>3</td><td>0</td>
     </tr>
     <tr>
-     <td>4/10/22</td><td>15</td><td>0</td><td>7</td><td>3</td><td>5</td><td>7</td>
+     <td>4/23/22</td><td>5</td><td>1</td><td>1</td><td>2</td><td>0</td><td>1</td>
+    </tr>
+    <tr>
+     <td>4/24/22</td><td>2</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td>
+    </tr>
+    <tr>
+     <td>4/26/22</td><td>2</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td>
+    </tr>
+    <tr>
+     <td>4/28/22</td><td>2</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td>
+    </tr>
+    <tr>
+     <td>4/29/22</td><td>17</td><td>7</td><td>2</td><td>1</td><td>0</td><td>7</td>
+    </tr>
+    <tr>
+     <td>5/1/22</td><td>26</td><td>5</td><td>5</td><td>1</td><td>6</td><td>9</td>
     </tr>
     <tr><td align="right"><b>Totals:</b></td><td><b>43</b></td><td><b>7</b></td><td><b>14</b></td><td><b>8</b></td><td><b>13</b></td><td><b>1</b></td>
     </tr>
