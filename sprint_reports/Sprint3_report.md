@@ -38,7 +38,7 @@ You can access our team's working prototype at [this site](https://github.com/ws
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/49">Issue #49</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/51"> PR51 </a></td><td>3<br/>4</td><td>0<br/>0</td><td>3<br>4</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> extracted coordinates from data files</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/50">Issue #50</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/51"> PR51 </a></td><td>5<br/>4</td><td>0<br/>0</td><td>5<br4</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>20</td><td><i> Was not needed. wanted to show s simple map with matlab. but it was too ambitious</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/50">Issue #50</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/51"> PR51 </a></td><td>5<br/>4</td><td>0<br/>0</td><td>5<br>4</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>20</td><td><i> Was not needed. wanted to show s simple map with matlab. but it was too ambitious</i></td>
     </tr>
     <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>14<br>14</b></td><td><b>0<br>0</b></td><td><b>14<br>14</b></td><td><b>0<br>0</b></td><td>0<b><br>0</b></td><td><b>0<br>0</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
     </tr>
