@@ -1,7 +1,7 @@
 import React from 'react';
 import { Input } from 'reactstrap';
 import { SupportedGasses } from '../../Constants/SupportedGasses';
-import logo from '../../../static/images/logo.png';
+import logo from '../../static/images/logo.png';
 
 const styles = {
     container: {
