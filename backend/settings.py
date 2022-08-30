@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-qt=q5hn-vdlz!ey!#&dsunzofgdofcm58a-4msgsy35egj@o5(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['astronomalies.azurewebsites.net']
+ALLOWED_HOSTS = ['astronomalies.azurewebsites.net','127.0.0.1']
 
 
 # Application definition

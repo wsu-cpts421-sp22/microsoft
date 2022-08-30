@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import '../static/css/index.css';
+import './static/css/index.css';
 import { MapPage } from './Pages/App/MapPage';
 
 ReactDOM.render(
