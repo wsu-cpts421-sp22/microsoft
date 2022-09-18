@@ -10,7 +10,7 @@ import { useDateRange } from '../../Components/UseDateRange/UseDateRange';
 import { SupportedGasses } from '../../Constants/SupportedGasses';
 import { ChartsDemoModal } from '../../Components/ChartsDemoModal/ChartsDemoModal';
 
-mapboxGl.accessToken = process.env.REACT_APP_MAPBOX_ACCESS_TOKEN;
+mapboxGl.accessToken = "pk.eyJ1IjoiYXNoZXJoYW5kYWx5IiwiYSI6ImNsMHRyMTFvbzBweGMzY3BrYWdkYXk0bWcifQ.RwV5xSDWOO6aIhmd-LrWrA";
 
 const styles = {
   container: {

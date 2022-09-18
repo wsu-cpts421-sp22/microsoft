@@ -1,5 +1,8 @@
 azure-core==1.23.1
 azure-storage-blob==12.11.0
+Django==2.2.12
+django-cors-headers==3.11.0
+djangorestframework==3.13.1
 fsspec==2022.3.0
 h5netcdf==1.0.0
 h5py==3.6.0

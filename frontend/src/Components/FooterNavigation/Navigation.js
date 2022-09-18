@@ -1,8 +1,8 @@
 import React from 'react';
 import { Button, Input } from 'reactstrap';
 import { SupportedGasses } from '../../Constants/SupportedGasses';
-import logo from '../../Assets/logo.png';
 import { ChartSideBar } from '../ChartsDemoModal/ChartsSideBar';
+import logo from '../../static/images/logo.png';
 
 const styles = {
     container: {

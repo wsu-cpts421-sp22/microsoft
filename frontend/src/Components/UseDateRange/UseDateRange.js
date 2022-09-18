@@ -5,6 +5,31 @@ import AdapterDateFns from '@mui/lab/AdapterDateFns';
 import { TextField } from '@material-ui/core';
 import { Slider } from "@mui/material";
 
+const styles = {
+    container: {
+        position: 'fixed',
+        left: '0px',
+        bottom: '0px',
+        width: 'calc(100vw - 42px)',
+        display: 'flex',
+        backgroundColor: 'white',
+        borderRadius: '0px',
+        padding: '15px',
+        paddingLeft: '21px',
+        paddingRight: '21px',
+        zIndex: '1',
+    },
+    dateContainer: {
+        display: 'flex',
+        flexDirection: 'column',
+        marginRight: '45px',
+    },
+    dateContainerTitle: {
+        marginBottom: '6px',
+        fontWeight: '500'
+    }
+};
+
 const GRANULARITIES = {
     days: 'days',
 };
@@ -47,6 +72,59 @@ const useDateRange = (props) => {
         return visDate;
     }
     
+    const dateComponent = (
+        <div style={styles.container}>
+             <LocalizationProvider dateAdapter={AdapterDateFns}>
+                 <div style={styles.dateContainer}>
+                     <span style={styles.dateContainerTitle}>Start Date:</span>
+                     <DatePicker
+                        maxDate={new Date()}
+                        value={startDate}
+                        onChange={(newValue) => {
+                            if (newValue.getTime() < endDate.getTime()) {
+                                setStartDate(newValue);
+                            }
+                            else {
+                                setStartDate(newValue);
+                                setEndDate(newValue)
+                            }
+                        }}
+                        renderInput={(params) => <TextField {...params} />}
+                    />
+                 </div>
+                 <div style={styles.dateContainer}>
+                     <span style={styles.dateContainerTitle}>End Date:</span>
+                     <DatePicker
+                        maxDate={new Date()}
+                        value={endDate}
+                        onChange={(newValue) => {
+                            if (newValue.getTime() > startDate.getTime()) {
+                                setEndDate(newValue);
+                            }
+                            else {
+                                setStartDate(newValue);
+                                setEndDate(newValue)
+                            }
+                        }}
+                        renderInput={(params) => <TextField {...params} />}
+                    />
+                </div>
+                <div style={{...styles.dateContainer, width: '100%', marginRight: '0px'}}>
+                    <span style={styles.dateContainerTitle}>Visualize Range:</span>
+                    <Slider
+                        size="large"
+                        step={1}
+                        defaultValue={0}
+                        valueLabelDisplay="auto"
+                        max={getNumDaysBetweenDates()}
+                        marks={true}
+                        onChangeCommitted={(e,v) => setSliderPos(v)}
+                    />
+                </div>
+            </LocalizationProvider>
+        </div>
+    );
+
     return {
         setSliderPos,
         setStartDate,
