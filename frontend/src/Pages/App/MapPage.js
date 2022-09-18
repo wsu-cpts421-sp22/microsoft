@@ -1,3 +1,6 @@
+import { DatePicker, LocalizationProvider } from '@mui/lab';
+import AdapterDateFns from '@mui/lab/AdapterDateFns';
+import { Slider, TextField } from '@mui/material';
 import mapboxGl from 'mapbox-gl';
 import { useEffect, useRef, useState } from 'react';
 import { Navigation } from '../../Components/FooterNavigation/Navigation';
@@ -5,6 +8,7 @@ import { LoadingModal } from '../../Components/LoadingModal/LoadingModal';
 import { MapMeta } from '../../Components/MapMeta/MapMeta';
 import { useDateRange } from '../../Components/UseDateRange/UseDateRange';
 import { SupportedGasses } from '../../Constants/SupportedGasses';
+import { ChartsDemoModal } from '../../Components/ChartsDemoModal/ChartsDemoModal';
 
 mapboxGl.accessToken = "pk.eyJ1IjoiYXNoZXJoYW5kYWx5IiwiYSI6ImNsMHRyMTFvbzBweGMzY3BrYWdkYXk0bWcifQ.RwV5xSDWOO6aIhmd-LrWrA";
 
@@ -18,6 +22,28 @@ const styles = {
     width: '100%',
     height: '100%',
   },
+  dateContainer: {
+    position: 'fixed',
+    left: '0px',
+    bottom: '0px',
+    width: 'calc(100vw - 42px)',
+    display: 'flex',
+    backgroundColor: 'white',
+    borderRadius: '0px',
+    padding: '15px',
+    paddingLeft: '21px',
+    paddingRight: '21px',
+    zIndex: '1',
+  },
+  innerDateContainer: {
+      display: 'flex',
+      flexDirection: 'column',
+      marginRight: '45px',
+  },
+  dateContainerTitle: {
+      marginBottom: '6px',
+      fontWeight: '500'
+  }
 };
 
 const MapPage = (props) => {
@@ -33,12 +59,19 @@ const MapPage = (props) => {
   const [initializingMap, setInitializingMap] = useState(true);
   const [loading, setLoading] = useState(true);
 
+  const [showCharts, setShowCharts] = useState(false);
+
   const { 
-    startDate,
-    endDate,
-    granularity,
-    dateComponent,
+    setSliderPos,
+    setStartDate,
+    startDate, 
+    setEndDate,
+    endDate, 
+    setGranularity,
+    granularity, 
+    setVisualizingDate,
     visualizingDate,
+    getNumDaysBetweenDates,
   } = useDateRange();
 
   //Visualize the selected gas
@@ -160,15 +193,65 @@ const MapPage = (props) => {
     }, 1000);
   }, [startDate, endDate]);
 
-
-
   return (
     <div style={styles.container}>
       {loading && <LoadingModal />}
+      {showCharts && <ChartsDemoModal closeCharts={(() => setShowCharts(false))} />}
       <div style={styles.mapContainer} ref={mapContainer}></div>
-      <Navigation gas={gas} setGas={setGas} />
+      <Navigation gas={gas} setGas={setGas} openCharts={(() => setShowCharts(true))} />
       <MapMeta lat={lat} lng={lng} zoom={zoom} />
-      {dateComponent}
+
+      <div style={styles.dateContainer}>
+            <LocalizationProvider dateAdapter={AdapterDateFns}>
+                <div style={styles.innerDateContainer}>
+                    <span style={styles.dateContainerTitle}>Start Date:</span>
+                    <DatePicker
+                        maxDate={new Date()}
+                        value={startDate}
+                        onChange={(newValue) => {
+                            if (newValue.getTime() < endDate.getTime()) {
+                                setStartDate(newValue);
+                            }
+                            else {
+                                setStartDate(newValue);
+                                setEndDate(newValue)
+                            }
+                        }}
+                        renderInput={(params) => <TextField {...params} />}
+                    />
+                </div>
+                <div style={styles.innerDateContainer}>
+                    <span style={styles.dateContainerTitle}>End Date:</span>
+                    <DatePicker
+                        maxDate={new Date()}
+                        value={endDate}
+                        onChange={(newValue) => {
+                            if (newValue.getTime() > startDate.getTime()) {
+                                setEndDate(newValue);
+                            }
+                            else {
+                                setStartDate(newValue);
+                                setEndDate(newValue)
+                            }
+                        }}
+                        renderInput={(params) => <TextField {...params} />}
+                    />
+                </div>
+                <div style={{...styles.innerDateContainer, width: '100%', marginRight: '0px'}}>
+                    <span style={styles.dateContainerTitle}>Visualize Range:</span>
+                    <Slider
+                        size="large"
+                        step={1}
+                        defaultValue={0}
+                        valueLabelDisplay="auto"
+                        max={getNumDaysBetweenDates()}
+                        marks={true}
+                        onChangeCommitted={(e,v) => setSliderPos(v)}
+                    />
+                </div>
+            </LocalizationProvider>
+        </div>
+
     </div>
   );
 }

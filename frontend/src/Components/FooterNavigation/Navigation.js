@@ -1,6 +1,7 @@
 import React from 'react';
-import { Input } from 'reactstrap';
+import { Button, Input } from 'reactstrap';
 import { SupportedGasses } from '../../Constants/SupportedGasses';
+import { ChartSideBar } from '../ChartsDemoModal/ChartsSideBar';
 import logo from '../../static/images/logo.png';
 
 const styles = {
@@ -49,7 +50,7 @@ const styles = {
 };
 
 //Footer navigation bar displayed below the map
-const Navigation = ({gas, setGas}) => {
+const Navigation = ({gas, setGas, openCharts}) => {
 
     const gasOptions = SupportedGasses.map(gas => {
         return (<option key={gas.key} name={gas.name} value={gas.key}>{gas.name}</option>)
@@ -74,6 +75,10 @@ const Navigation = ({gas, setGas}) => {
                     <Input style={styles.selectionInput} value={gas} type={'select'} name={'visualize-gas'} onChange={handleChange}>
                         {gasOptions}
                     </Input>
+                </div>
+                <div style={styles.inputContainer}>
+                    <Button style={{height: '24px', margin: '0px', marginBottom: '12px', marginLeft: '15px'}} onClick={openCharts}>Show Charts</Button>
+                    <ChartSideBar />
                 </div>
             </div>
         </div>
