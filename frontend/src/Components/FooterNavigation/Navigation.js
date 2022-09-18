@@ -67,7 +67,7 @@ const Navigation = ({gas, setGas, openCharts}) => {
 
     return (
         <div style={styles.container}>
-            <img style={styles.logoImage} src={logo}></img>
+            <img style={styles.logoImage} alt='' src={logo}></img>
             <span style={styles.logoTitle}>Astronomalies</span>
             <div style={styles.inputs}>
                 <div style={styles.inputContainer}>
