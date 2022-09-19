@@ -1,4 +1,4 @@
-# Report for Sprint 3: *Astronomalies*
+# Report for Sprint 4: *Astronomalies*
 
 ## Link to Sprint Summary Video
 [Summary video link](https://youtu.be/EI-EDc2jOIk)
