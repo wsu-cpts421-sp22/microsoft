@@ -7,8 +7,7 @@
 [Teams Server link](https://teams.microsoft.com/l/team/19%3acBEWDZpUinwRPPDffLwMUeqQfQMBbxADWyOBt_X5q3w1%40thread.tacv2/conversations?groupId=87fda352-e01f-4122-957a-6c68b129334b&tenantId=b52be471-f7f1-47b4-a879-0c799bb53db5)
 
 ## Link to Working Prototype
-You can access our team's working prototype at [this site](https://github.com/wsu-cpts421-sp22/microsoft/blob/main/frontend/README.md)
-*(If your working prototype is not deployed to the web, then provide instructions here for downloading/installing your prototype)*
+You can access our team's working prototype at [this site](https://astronomalies.netlify.app/)
 
 ## Team members
 1. **Team leader:** *Michael Larson (Larsomic)*
@@ -65,11 +64,11 @@ You can access our team's working prototype at [this site](https://github.com/ws
 #### Reflection Statements
 | Team Member | Contribution Reflection Statement |
 |-------------|-------------------|
-|Michael| I think that this sprint really well for me. I was able to add tests and work on the final project draft. I also was able to work on deploying our website to azure web services. |
-|Khalil| I had set goals from the get go, and worked towards them whenver I got the chance. the ending of the semester is always busy. but I was able to meet my goals. Would loved if I had more time to clean up, and download more data scene files|
-|Brian| During this sprint I felt that I was effective about my tasks. I completed the tasks in a timely manner which helped prevent the disruption of progress for our team. My only flaw during this sprint was not documenting on the time tables for our report in a more effective way. |
-|Asher| I think this sprint went quite well despite the complications with finals. I accomplished the goal of creating a timeseries component and went beyond to create 6 chart variations that we could employ with the live data in the future. |
-|Eric| Although finals coming up made it tougher to manage time, I was able to complete the tasks and goals I set forth. I started working on sprint 3 much earlier than I had in previous sprint which I would attribute a lot my success to. |
+|Michael| I think that this sprint went well for me. I was able to get pas a lot of roadblocks that I had with deployment over the summer and I was able to compelete my goal of deploying our website. |
+|Khalil| ToDo. |
+|Brian| ToDo. |
+|Asher| ToDo. |
+|Eric| ToDo. |
 ### Testing
 
 |Issue | Test File | Feature Tested | Results Summary | 
@@ -79,7 +78,7 @@ You can access our team's working prototype at [this site](https://github.com/ws
   
 ### Communication
  
-#### MS Teams/Discord/Slack Messages
+#### MS Teams Messages
 <table> 
   <thead>
     <tr>
@@ -125,29 +124,7 @@ You can access our team's working prototype at [this site](https://github.com/ws
 </table>
 
 #### Meetings with Sponsor
-<table> 
-  <thead>
-    <tr>
-      <th colspan="2"></th><th colspan="5">In attendance?</th>
-    </tr> 
-    <tr>
-      <th>Date</th><th>Duration (min)</th><th>Michael</th><th>Khalil</th><th>Brian</th><th>Asher</th><th>Eric</th>
-    </tr>
-  </thead> 
-  <tbody>
-    <tr>
-      <td>4/13/22</td><td>25</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
-    </tr>
-     <tr>
-      <td>4/20/22</td><td>20</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
-    </tr>
-    <tr>
-      <td>4/27/22</td><td>25</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
-    </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>70</b></td><td><b>3</b></td><td><b>3</b></td><td><b>3</b></td><td><b>3</b></td><td><b>3</b></td>
-    </tr>
-  </tbody>
-</table>
+N/A
 
 #### Video Meetings
 <table> 
@@ -161,58 +138,46 @@ You can access our team's working prototype at [this site](https://github.com/ws
   </thead> 
   <tbody>
     <tr>
-      <td>4/13/22</td><td>15</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
+      <td>9/8/22</td><td>15</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
-     <tr>
-      <td>5/1/22</td><td>20</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
+    <tr>
+      <td>9/15/22</td><td>30</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>35</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td>
+    <tr>
+      <td>9/18/22</td><td>35</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
+    </tr>
+    <tr><td align="right"><b>Totals:</b></td><td><b>80</b></td><td><b>3</b></td><td><b>3</b></td><td><b>3</b></td><td><b>3</b></td><td><b>3</b></td>
     </tr>
   </tbody>
 </table>
   
 #### Face-to-Face Meetings
-<table> 
-  <thead>
-    <tr>
-      <th colspan="2"></th><th colspan="5">In attendance?</th><th></th>
-    </tr> 
-    <tr>
-      <th>Date</th><th>Duration (min)</th><th>Michael</th><th>Khalil</th><th>Brian</th><th>Asher</th><th>Eric</th><th>Notes</th>
-    </tr>
-  </thead> 
-  <tbody>
-    <tr>
-      <td></td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td>
-    </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td><td><b>N/A</b></td>N/A<td></td><b>N/A</b></td>
-    </tr>
-  </tbody>
-</table>
+N/A
 
 #### Reflection Statements
 | Team Member | Communication Reflection Statement |
 |-------------|-------------------|
-|Michael| I think our communication went really well this sprint. We met multiple times and split the work evenly. We have constantly improved our communication every sprint and I think that we are at a really good spot going into the summer. |
-|Khalil| Team was able to communicate their set goals. and deliver open those expectations. We were checking on each other along the way, making sure not to fall behind. Can really see the progress we made. |
-|Brian| Communication was great during this sprint we have made drastic progress in our communication throughout this semester and it's a priority to keep this effectiveness in communication for our next semester. |
-|Asher| I believe we have made great progress in terms of communication and teamwork since our previous sprint. We've also had a better handle on documentation and setting expectations for each group member. In the future, I think we still have room to improve our documentation further. |
-|Eric| Communication was pretty good, we set clear goals early on during the sprint which made everything much easier. Had team meetings for the first couple weeks of the sprint but would like to see us set a dedicated time to meet every week in the future. |
+|Michael| This sprint seemed to me that we had our best communication yet. Everyone was very responsive in Microsoft Teams whenever there was any questions. This helped lead time as we had to spend less time waiting for respnses. |
+|Khalil| ToDo. |
+|Brian| ToDo. |
+|Asher| I think this sprint went well overall. It was a bit slower than usual since we were just getting into the swing of things. We didn't totally achieve all of the goals we set at the beginning, however we fixed problems that ultimately needed to be fixed and found ways to improve our processes that will be beneficial for future sprints. |
+|Eric| ToDo. |
 
 ### Retrospective
 
-[Link to Recording](https://emailwsu.sharepoint.com/:v:/r/teams/2022.PULLM.CptS.421.423-Microsoft/Shared%20Documents/Recordings/Microsoft-20220502_023613-Meeting%20Recording.mp4?csf=1&web=1&e=bsNsMS)
+[Link to Recording](https://emailwsu.sharepoint.com/teams/2022.PULLM.CptS.421.423-MicrosoftV2/Shared%20Documents/Recordings/Microsoft%20V2-20220918_161528-Meeting%20Recording.mp4?web=1)
 
 #### What went well
-  - Our time management for this sprint was something we drastically improved throughout this sprint. We set expecations for each other and held each other acccountable and when asked about the progression of the assignment we were working on it rather than putting it behind for last minute.
-  - The amount of success and work that was done was really great and we kept a good stream of communication throughout these completions. This was a constant problem during the beginning of the semester and will refinements can be made we ultimately found a rhythm that will help us succeed.
-  
- #### What we'd like to improve
-  - We would like to keep ourselves more organized for future sprints. We know that for future sprints the amount of files and workload will increase and keeping a organized structure will help with keeping our work easy to find.
-  - Another thing that we would like to improve upon is the amount of documentation that is being and the time of which it is being done. We do the work that is needed to be successful in our sprint however struggle to remember to document the amount of work. 
-  - Now that we have improved in our effectiveness we would like to focus on the finer details that we can improve upon. One in particular would be to make sure to keep notes on the feedback by the professor for our sprints and avoid the small mistakes.
+- We had really good team communication and were able to message a lot on the teams channel.
+- We got a lot of sprint points done and got a lot of work done on research and development.
+
+#### What we'd like to improve
+- We would like to have more meetings with our mentors.
+- We would like to have better communication regarding PR's.
+- Our start date, we started this sprint late because of school starting.
   
 #### Changes we plan to implement in next sprint period
-  - We will keep a greater emphasis on the smaller things that we can improve upon and make sure to layout a foundation that will keep us from losing our effectiveness.
-  -  We also would like to keep the structure we currently have for our fall semester. Our summer break will be a challenge as this may interrupt the foundation we have built for completing our sprints. For this we hope that we can communicate and set goals that we will accomplish to keep the process we have.
-  - Assessing the feedback given by the professor will be something we hope to put more emphasis on to prevent further repetition of the same mistakes being made throughout the sprints.
+- We plan to message in the teams chat when we need someone to review our PR's.
+- Start the sprint immediately.
+- Meet with our mentor every week.
+- Set goals at the start of the sprint.
