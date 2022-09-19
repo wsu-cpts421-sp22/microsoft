@@ -104,19 +104,19 @@ You can access our team's working prototype at [this site](https://astronomalies
      <td>9/8/22</td><td>2</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
     </tr>
     <tr>
-     <td>4/24/22</td><td>2</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td>
+     <td>9/12/22</td><td>6</td><td>2</td><td>0</td><td>1</td><td>0</td><td>3</td>
     </tr>
     <tr>
-     <td>4/26/22</td><td>2</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td>
+     <td>9/13/22</td><td>4</td><td>1</td><td>1</td><td>0</td><td>1</td><td>1</td>
     </tr>
     <tr>
-     <td>4/28/22</td><td>2</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td>
+     <td>9/14/22</td><td>6</td><td>1</td><td>1</td><td>1</td><td>2</td><td>1</td>
     </tr>
     <tr>
-     <td>4/29/22</td><td>17</td><td>7</td><td>2</td><td>1</td><td>0</td><td>7</td>
+     <td>9/15/22</td><td>9</td><td>3</td><td>1</td><td>1</td><td>2</td><td>2</td>
     </tr>
     <tr>
-     <td>5/1/22</td><td>26</td><td>5</td><td>5</td><td>1</td><td>6</td><td>9</td>
+     <td>9/18/22</td><td>26</td><td>6</td><td>5</td><td>1</td><td>7</td><td>7</td>
     </tr>
     <tr><td align="right"><b>Totals:</b></td><td><b>71</b></td><td><b>20</b></td><td><b>12</b></td><td><b>6</b></td><td><b>14</b></td><td><b>19</b></td>
     </tr>
