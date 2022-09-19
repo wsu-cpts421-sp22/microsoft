@@ -158,7 +158,7 @@ N/A
 | Team Member | Communication Reflection Statement |
 |-------------|-------------------|
 |Michael| This sprint seemed to me that we had our best communication yet. Everyone was very responsive in Microsoft Teams whenever there was any questions. This helped lead time as we had to spend less time waiting for respnses. |
-|Khalil| ToDo. |
+|Khalil| Cant deny that the spring was slower that we intended. we were able to get some of our goals met. Getting communication with our sponsor going forward is important and as a group we will be meeting more regularly and schedule our meeting sooner, to avoid not finding a common time between us|
 |Brian| ToDo. |
 |Asher| I think this sprint went well overall. It was a bit slower than usual since we were just getting into the swing of things. We didn't totally achieve all of the goals we set at the beginning, however we fixed problems that ultimately needed to be fixed and found ways to improve our processes that will be beneficial for future sprints. |
 |Eric| ToDo. |
