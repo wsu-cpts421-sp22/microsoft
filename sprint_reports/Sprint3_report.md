@@ -28,16 +28,16 @@ You can access our team's working prototype at [this site](https://astronomalies
     </tr>
   </thead> 
   <tbody>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/42">Issue PR#42</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/42"> PR42</a></td><td>3<br/>3</td><td>0<br/>0</td><td>3<br>3</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Was able to Open file</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/58">Issue PR#58</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/58"> PR58</a></td><td>3<br/>3</td><td>3<br/>3</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Updating Mike Larson's Sprint Report</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/51">Issue PR#51</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/51"> PR51</a></td><td>3<br/>3</td><td>0<br/>0</td><td>3<br>3</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Was able to read the data</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/59">Issue PR#59</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/59"> PR59</a></td><td>3<br/>3</td><td>3<br/>3</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Setting Up React with Django Backend</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/49">Issue #49</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/51"> PR51 </a></td><td>3<br/>4</td><td>0<br/>0</td><td>3<br>4</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> extracted coordinates from data files</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/60">Issue #60</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/60"> PR60 </a></td><td>3<br/>3</td><td>3<br/>3</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Updating Frontend for Deploy</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/50">Issue #50</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/51"> PR51 </a></td><td>5<br/>4</td><td>0<br/>0</td><td>5<br>4</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>20</td><td><i> Was not needed. wanted to show s simple map with matlab. but it was too ambitious</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/61">Issue #50</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/51"> PR51 </a></td><td>5<br/>4</td><td>0<br/>0</td><td>5<br>4</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>20</td><td><i> Was not needed. wanted to show s simple map with matlab. but it was too ambitious</i></td>
     </tr>
     </tr>
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/50">Issue #43</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/52"> PR52 </a></td><td>5<br/>4</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>3<br/>10</td><td>100</td><td><i> Able to read data from OpenAQ</i></td>
