@@ -65,7 +65,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 | Team Member | Contribution Reflection Statement |
 |-------------|-------------------|
 |Michael| I think that this sprint went well for me. I was able to get pas a lot of roadblocks that I had with deployment over the summer and I was able to compelete my goal of deploying our website. |
-|Khalil| ToDo. |
+|Khalil| For this spring I focused on downloading the satellite data from the sentinel 5p storage container, and uploaded it to the team Azure blob Storage for access. A lot of work was spent troubleshooting the download script so it can go for as long as needed without crashing. As of right now we have access to 6 months worth of data concerning Methane Gas.|
 |Brian| ToDo. |
 |Asher| I merged the residual frontend feature branches that never got merged from previous sprints, which required working through the merge conflicts between master and each feature branch. Then worked on solving dependency issues caused by the merges. Lastly worked on adding an informational menu to the frontend application, but did not complete that task yet. |
 |Eric| ToDo. |
