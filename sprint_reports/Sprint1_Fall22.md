@@ -41,7 +41,7 @@ You can access our team's working prototype at [this site](https://astronomalies
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/62">Issue #62</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/60"> PR60 </a></td><td>5<br/>5</td><td>5<br/>5</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Deploy Frontend</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/63">Issue #63</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/64"> PR64 </a></td><td>5<br/>5</td><td>0<br/>0</td><td>5<br>5</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Download Scenes to Azure Blob Storage</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/63">Issue #63</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/64"> PR64 </a></td><td>5<br/>5</td><td>0<br/>0</td><td>5<br>6</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Download Scenes to Azure Blob Storage</i></td>
     </tr>
     </tr>
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/71">Issue #71</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/71"> PR71 </a></td><td>5<br/>5</td><td>5<br/>5</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Update Sprint3_report.md</i></td>
