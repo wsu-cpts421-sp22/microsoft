@@ -92,7 +92,7 @@ You can access our team's working prototype at [this site](https://astronomalies
      <td>8/29/22</td><td>4</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td>
     </tr>
     <tr>
-     <td>8/30/22</td><td>4</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td>
+     <td>8/30/22</td><td>7</td><td>3</td><td>0</td><td>1</td><td>2</td><td>1</td>
     </tr>
     <tr>
      <td>4/13/22</td><td>3</td><td>2</td><td>0</td><td>1</td><td>0</td><td>0</td>
