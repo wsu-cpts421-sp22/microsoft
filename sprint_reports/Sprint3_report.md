@@ -118,7 +118,7 @@ You can access our team's working prototype at [this site](https://astronomalies
     <tr>
      <td>9/18/22</td><td>26</td><td>6</td><td>5</td><td>1</td><td>7</td><td>7</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>71</b></td><td><b>20</b></td><td><b>12</b></td><td><b>6</b></td><td><b>14</b></td><td><b>19</b></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>83</b></td><td><b>26</b></td><td><b>11</b></td><td><b>8</b></td><td><b>17</b></td><td><b>21</b></td>
     </tr>
   </tbody>
 </table>
