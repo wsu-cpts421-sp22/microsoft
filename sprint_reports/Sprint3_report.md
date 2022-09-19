@@ -66,7 +66,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 |-------------|-------------------|
 |Michael| I think that this sprint went well for me. I was able to get pas a lot of roadblocks that I had with deployment over the summer and I was able to compelete my goal of deploying our website. |
 |Khalil| For this spring I focused on downloading the satellite data from the sentinel 5p storage container, and uploaded it to the team Azure blob Storage for access. A lot of work was spent troubleshooting the download script so it can go for as long as needed without crashing. As of right now we have access to 6 months worth of data concerning Methane Gas.|
-|Brian| ToDo. |
+|Brian| I think that this sprint I could definitely have done a little more. I worked parts of the sprint report however I think I could've reached out with other team members and be able to perhaps assist with any tasks they may have.|
 |Asher| I merged the residual frontend feature branches that never got merged from previous sprints, which required working through the merge conflicts between master and each feature branch. Then worked on solving dependency issues caused by the merges. Lastly worked on adding an informational menu to the frontend application, but did not complete that task yet. |
 |Eric| ToDo. |
 ### Testing
@@ -159,7 +159,7 @@ N/A
 |-------------|-------------------|
 |Michael| This sprint seemed to me that we had our best communication yet. Everyone was very responsive in Microsoft Teams whenever there was any questions. This helped lead time as we had to spend less time waiting for respnses. |
 |Khalil| Cant deny that the spring was slower that we intended. we were able to get some of our goals met. Getting communication with our sponsor going forward is important and as a group we will be meeting more regularly and schedule our meeting sooner, to avoid not finding a common time between us|
-|Brian| ToDo. |
+|Brian| I personally find our communication to be great and something that didn't degrade despite the amount of time apart during the summer. I think we all as a team have held good habits with communication between a team |
 |Asher| I think this sprint went well overall. It was a bit slower than usual since we were just getting into the swing of things. We didn't totally achieve all of the goals we set at the beginning, however we fixed problems that ultimately needed to be fixed and found ways to improve our processes that will be beneficial for future sprints. |
 |Eric| ToDo. |
 
