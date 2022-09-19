@@ -1,7 +1,7 @@
 # Report for Sprint 3: *Astronomalies*
 
 ## Link to Sprint Summary Video
-[Summary video link](https://youtu.be/HsuPjH5oHOk)
+[Summary video link](https://youtu.be/EI-EDc2jOIk)
 
 ## Link to Online Communication Channel (MS Teams/Slack/Discord)
 [Teams Server link](https://teams.microsoft.com/l/team/19%3acBEWDZpUinwRPPDffLwMUeqQfQMBbxADWyOBt_X5q3w1%40thread.tacv2/conversations?groupId=87fda352-e01f-4122-957a-6c68b129334b&tenantId=b52be471-f7f1-47b4-a879-0c799bb53db5)
