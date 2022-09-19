@@ -62,7 +62,7 @@ You can access our team's working prototype at [this site](https://astronomalies
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/69">Issue #69</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/69"> PR69 </a></td><td>3<br/>3</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>3<br/>3</td><td>100</td><td><i> Research on API's for Data Aggregation</i></td>
     </tr>
     </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>35<br>35</b></td><td><b>21<br>21</b></td><td><b>14<br>14</b></td><td><b>0<br>0</b></td><td>7<b><br>26</b></td><td><b>0<br>0</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
+    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>49<br>49</b></td><td><b>18.6<br>18.6</b></td><td><b>7.6<br>7.6</b></td><td><b>8.6<br>8.6</b></td><td>2.6<b><br>2.6</b></td><td><b>11.6<br>11.6</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
     </tr>
   </tbody>
 </table>
