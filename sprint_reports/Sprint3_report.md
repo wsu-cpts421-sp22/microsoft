@@ -67,7 +67,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 |Michael| I think that this sprint went well for me. I was able to get pas a lot of roadblocks that I had with deployment over the summer and I was able to compelete my goal of deploying our website. |
 |Khalil| ToDo. |
 |Brian| ToDo. |
-|Asher| ToDo. |
+|Asher| I merged the residual frontend feature branches that never got merged from previous sprints, which required working through the merge conflicts between master and each feature branch. Then worked on solving dependency issues caused by the merges. Lastly worked on adding an informational menu to the frontend application, but did not complete that task yet. |
 |Eric| ToDo. |
 ### Testing
 
