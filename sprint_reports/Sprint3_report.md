@@ -50,22 +50,16 @@ You can access our team's working prototype at [this site](https://astronomalies
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/65">Issue #65</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/65"> PR65 </a></td><td>8<br/>8</td><td>0<br/>0</td><td>0<br>0</td><td>8<br/>8</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Fill Out Sprint Report</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/62">Issue #62</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/62"> PR62 </a></td><td>5<br/>5</td><td>5<br/>5</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Deploy Frontend</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/66">Issue #66</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/66"> PR66 </a></td><td>8<br/>8</td><td>2<br/>2</td><td>2<br>2</td><td>0<br/>0</td><td>2<br/>2</td><td>2<br/>2</td><td>100</td><td><i> Make a Sprint Video</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/62">Issue #62</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/62"> PR62 </a></td><td>5<br/>5</td><td>5<br/>5</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Deploy Frontend</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/67">Issue #67</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/70"> PR70 </a></td><td>3<br/>3</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>3<br/>3</td><td>100</td><td><i> Update Scripts to Accept Command Line Arguments</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/62">Issue #62</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/62"> PR62 </a></td><td>5<br/>5</td><td>5<br/>5</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Deploy Frontend</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/68">Issue #68</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/68"> PR68 </a></td><td>3<br/>3</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>3<br/>3</td><td>100</td><td><i> Research on Getting Files from Azure Blob</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/62">Issue #62</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/62"> PR62 </a></td><td>5<br/>5</td><td>5<br/>5</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Deploy Frontend</i></td>
-    </tr>
-    </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/62">Issue #62</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/62"> PR62 </a></td><td>5<br/>5</td><td>5<br/>5</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Deploy Frontend</i></td>
-    </tr>
-    </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/62">Issue #62</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/62"> PR62 </a></td><td>5<br/>5</td><td>5<br/>5</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Deploy Frontend</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/69">Issue #69</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/69"> PR69 </a></td><td>3<br/>3</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>3<br/>3</td><td>100</td><td><i> Research on API's for Data Aggregation</i></td>
     </tr>
     </tr>
     <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>35<br>35</b></td><td><b>21<br>21</b></td><td><b>14<br>14</b></td><td><b>0<br>0</b></td><td>7<b><br>26</b></td><td><b>0<br>0</b></td><td colspan="2"><i>(Target is 27 pts and 27 hrs per person per sprint)</td>
