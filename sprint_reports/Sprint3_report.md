@@ -68,7 +68,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 |Khalil| For this spring I focused on downloading the satellite data from the sentinel 5p storage container, and uploaded it to the team Azure blob Storage for access. A lot of work was spent troubleshooting the download script so it can go for as long as needed without crashing. As of right now we have access to 6 months worth of data concerning Methane Gas.|
 |Brian| I think that this sprint I could definitely have done a little more. I worked parts of the sprint report however I think I could've reached out with other team members and be able to perhaps assist with any tasks they may have.|
 |Asher| I merged the residual frontend feature branches that never got merged from previous sprints, which required working through the merge conflicts between master and each feature branch. Then worked on solving dependency issues caused by the merges. Lastly worked on adding an informational menu to the frontend application, but did not complete that task yet. |
-|Eric| ToDo. |
+|Eric| This sprint wasn't super technical for me, I spent some time updating the London Data script to support command line arguments and updated the API calls a bit since the API has changed a little bit since I last used it. Other than that I spent some time researching on getting our data from azure blob storage and on different APIs we could use since this stuff will need to be done in the future.|
 ### Testing
 
 |Issue | Test File | Feature Tested | Results Summary | 
@@ -161,7 +161,7 @@ N/A
 |Khalil| Cant deny that the spring was slower that we intended. we were able to get some of our goals met. Getting communication with our sponsor going forward is important and as a group we will be meeting more regularly and schedule our meeting sooner, to avoid not finding a common time between us|
 |Brian| I personally find our communication to be great and something that didn't degrade despite the amount of time apart during the summer. I think we all as a team have held good habits with communication between a team |
 |Asher| I think this sprint went well overall. It was a bit slower than usual since we were just getting into the swing of things. We didn't totally achieve all of the goals we set at the beginning, however we fixed problems that ultimately needed to be fixed and found ways to improve our processes that will be beneficial for future sprints. |
-|Eric| ToDo. |
+|Eric| Communication between the team was good in some aspects and needing improvement on others, we were all really responsive to each other, and once we got communication flowing we did really well. But we started communicating to late in the sprint. Going forward we will need to get in touch with our sponsor and send her another message if necessary.|
 
 ### Retrospective
 
