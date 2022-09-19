@@ -37,10 +37,10 @@ You can access our team's working prototype at [this site](https://astronomalies
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/60">Issue #60</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/60"> PR60 </a></td><td>3<br/>3</td><td>3<br/>3</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Updating Frontend for Deploy</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/61">Issue #50</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/51"> PR51 </a></td><td>5<br/>4</td><td>0<br/>0</td><td>5<br>4</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>20</td><td><i> Was not needed. wanted to show s simple map with matlab. but it was too ambitious</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/61">Issue #61</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/61"> PR61 </a></td><td>3<br/>3</td><td>0.6<br/>0.6</td><td>0.6<br>0.6</td><td>0.6<br/>0.6</td><td>0.6<br/>0.6</td><td>0.6<br/>0.6</td><td>100</td><td><i>Project Report Draft</i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/50">Issue #43</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/52"> PR52 </a></td><td>5<br/>4</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>3<br/>10</td><td>100</td><td><i> Able to read data from OpenAQ</i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/62">Issue #62</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/62"> PR62 </a></td><td>5<br/>5</td><td>5<br/>5</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Deploy Frontend</i></td>
     </tr>
     </tr>
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/45">Issue #45</a></td><td> </a></td><td>0<br/>0</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>2</td><td>100</td><td><i> </i></td>
