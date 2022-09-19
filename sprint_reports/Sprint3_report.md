@@ -95,13 +95,13 @@ You can access our team's working prototype at [this site](https://astronomalies
      <td>8/30/22</td><td>7</td><td>3</td><td>0</td><td>1</td><td>2</td><td>1</td>
     </tr>
     <tr>
-     <td>4/13/22</td><td>3</td><td>2</td><td>0</td><td>1</td><td>0</td><td>0</td>
+     <td>8/31/22</td><td>13</td><td>3</td><td>3</td><td>2</td><td>2</td><td>3</td>
     </tr>
     <tr>
-     <td>4/20/22</td><td>5</td><td>2</td><td>0</td><td>0</td><td>3</td><td>0</td>
+     <td>9/1/22</td><td>6</td><td>4</td><td>0</td><td>0</td><td>0</td><td>2</td>
     </tr>
     <tr>
-     <td>4/23/22</td><td>5</td><td>1</td><td>1</td><td>2</td><td>0</td><td>1</td>
+     <td>9/8/22</td><td>2</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
     </tr>
     <tr>
      <td>4/24/22</td><td>2</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td>
