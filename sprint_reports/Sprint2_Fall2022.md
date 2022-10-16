@@ -50,12 +50,11 @@ You can access our team's working prototype at [this site](https://astronomalies
 |-------------|-------------------|
 |Michael| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.>  |
 |Khalil|  <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|Brian|  <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.>  |
+|Brian| During this milestone I mainly did work around getting everything together for the report. In addition also documenting related activities, keeping track of our communication, and also taking notes when needed.|
 |Asher|  <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.>  |
 |Eric| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
   
 ### Communication
-Provide a link to the MS Teams. If there were any significant team communications outside MS Teams, add a copy of these messages to your MS Teams channel. Also include links to any meeting notes that are not present in MS Teams or GitHub.
 
 #### Meetings with Sponsor
 <table> 
