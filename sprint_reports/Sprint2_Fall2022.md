@@ -8,7 +8,6 @@
 
 ## Link to Working Prototype
 You can access our team's working prototype at [this site](https://astronomalies.netlify.app/)
-*(If your working prototype is not deployed to the web, then provide instructions here for downloading/installing your prototype)*
 
 ## Team members
 1. **Team leader:** *Michael Larson (Larsomic)*
@@ -49,11 +48,11 @@ You can access our team's working prototype at [this site](https://astronomalies
 #### Reflection Statements
 | Team Member | Contribution Reflection Statement |
 |-------------|-------------------|
-|Ada| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|Pascal| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|Ruby| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|Haskel| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
-|Java| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Michael| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.>  |
+|Khalil|  <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Brian|  <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.>  |
+|Asher|  <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.>  |
+|Eric| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
   
 ### Communication
 Provide a link to the MS Teams. If there were any significant team communications outside MS Teams, add a copy of these messages to your MS Teams channel. Also include links to any meeting notes that are not present in MS Teams or GitHub.
@@ -65,17 +64,14 @@ Provide a link to the MS Teams. If there were any significant team communication
       <th colspan="2"></th><th colspan="5">In attendance?</th>
     </tr> 
     <tr>
-      <th>Date</th><th>Duration (min)</th><th>Ada</th><th>Pascal</th><th>Ruby</th><th>Haskel</th><th>Java</th>
+      <th>Date</th><th>Duration (min)</th><th>Michael</th><th>Khalil</th><th>Brian</th><th>Asher</th><th>Eric</th>
     </tr>
   </thead> 
   <tbody>
     <tr>
-      <td>11/9/21</td><td>17</td><td>&check;</td><td>&check;</td><td></td><td>&check;</td><td>&check;</td>
+      <td>10/14/22</td><td>25</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
-     <tr>
-      <td>11/12/21</td><td>31</td><td>&check;</td><td>&check;</td><td></td><td></td><td>&check;</td>
-    </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>48</b></td><td><b>2</b></td><td><b>2</b></td><td><b>0</b></td><td><b>1</b></td><td><b>2</b></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>25</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td>
     </tr>
   </tbody>
 </table>
@@ -87,17 +83,14 @@ Provide a link to the MS Teams. If there were any significant team communication
       <th colspan="2"></th><th colspan="5">In attendance?</th>
     </tr> 
     <tr>
-      <th>Date</th><th>Duration (min)</th><th>Ada</th><th>Pascal</th><th>Ruby</th><th>Haskel</th><th>Java</th>
+      <th>Date</th><th>Duration (min)</th><th>Michael</th><th>Khalil</th><th>Brian</th><th>Asher</th><th>Eric</th>
     </tr>
   </thead> 
   <tbody>
     <tr>
-      <td>11/9/21</td><td>17</td><td>&check;</td><td>&check;</td><td></td><td>&check;</td><td>&check;</td>
+      <td>10/6/22</td><td>15</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
-     <tr>
-      <td>11/12/21</td><td>31</td><td>&check;</td><td>&check;</td><td></td><td></td><td>&check;</td>
-    </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>48</b></td><td><b>2</b></td><td><b>2</b></td><td><b>0</b></td><td><b>1</b></td><td><b>2</b></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>15</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td>
     </tr>
   </tbody>
 </table>
