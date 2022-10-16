@@ -1,13 +1,13 @@
-# Report for Sprint # [sprint #]: *Team Name*
+# Report for Sprint 2: *Astronomalies*
 
 ## Link to Sprint Summary Video
 [Summary video link](https://youtube.com/)
 
 ## Link to Online Communication Channel
-[MS Teams](https://teams.microsoft.com/l/team/)
+[MS Teams](https://teams.microsoft.com/l/team/19%3acBEWDZpUinwRPPDffLwMUeqQfQMBbxADWyOBt_X5q3w1%40thread.tacv2/conversations?groupId=87fda352-e01f-4122-957a-6c68b129334b&tenantId=b52be471-f7f1-47b4-a879-0c799bb53db5)
 
 ## Link to Working Prototype
-You can access our team's working prototype at [this site](https://ourapp.herokuapp.com)
+You can access our team's working prototype at [this site](https://astronomalies.netlify.app/)
 *(If your working prototype is not deployed to the web, then provide instructions here for downloading/installing your prototype)*
 
 ## Team members
