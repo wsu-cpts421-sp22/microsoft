@@ -28,13 +28,13 @@ You can access our team's working prototype at [this site](https://astronomalies
     </tr>
   </thead> 
   <tbody>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/72">Issue #72</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/72"> N/A </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>5<br>5</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i>  </i>chose to go with geoJSON files</td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/72">Issue #72</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/72"> N/A </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>5<br>5</td><td>0<br/>0</td><td>2<br/>2</td><td>0<br/>0</td><td>100</td><td><i>  </i>chose to go with geoJSON files</td>
     </tr>
     </tr>
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/73">Issue #73</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/73"> N/A </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>3<br>3</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i>  </i>got help from teammates and was able to deploy succesffully</td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/74">Issue #74</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/74"> N/A </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>13<br>13</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i>  </i>Successfully parsed the data. but our file sizes are a bit too big</td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/74">Issue #74</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/74"> N/A </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>13<br>13</td><td>0<br/>0</td><td>9<br/>9</td><td>0<br/>0</td><td>100</td><td><i>  </i>Successfully parsed the data. but our file sizes are a bit too big</td>
     </tr>
     </tr>
     <td><a href=https://github.com/wsu-cpts421-sp22/microsoft/issues/75>Issue #75</a></td><td><a href=https://github.com/wsu-cpts421-sp22/microsoft/issues/75> N/A </a></td><td> 0<br/>0</td><td>3<br/>3</td><td>0<br>0</td><td>3<br/>3</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> </i> Completed Sprint Report</td>
@@ -43,7 +43,7 @@ You can access our team's working prototype at [this site](https://astronomalies
     <td><a href=https://github.com/wsu-cpts421-sp22/microsoft/issues/76>Issue #76</a></td><td><a href=https://github.com/wsu-cpts421-sp22/microsoft/issues/76> N/A </a></td><td> 0<br/>0</td><td>2<br/>2</td><td>2<br>2</td><td>1<br/>1</td><td>2<br/>2</td><td>1<br/>1</td><td>100</td><td><i> </i> Completed Sprint Video</td>
     </tr>
     </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>00<br>00</b></td><td><b>5<br>5</b></td><td><b>21<br>21</b></td><td><b>4<br>4</b></td><td>2<b><br>2</b></td><td><b>1<br>1</b></td><td colspan="2"><i>
+    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>00<br>00</b></td><td><b>5<br>5</b></td><td><b>21<br>21</b></td><td><b>4<br>4</b></td><td>13<b><br>13</b></td><td><b>1<br>1</b></td><td colspan="2"><i>
     </tr>
   </tbody>
 </table>
@@ -54,7 +54,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 |Michael| For this milestone I wanted to work on making it more clear what our project was so that users stumbling across it could figure out what it was. I think that this sprint was a big success for me and our team. |
 |Khalil|  I had a goal from the beginning for this milestone: prepare and parse the data so we can show it on our front-end. which I was able to achieve.  Our sponsor agreed that this would be a good step forward, which pushed me to focus on it even more  |
 |Brian| During this milestone I mainly did work around getting everything together for the report. In addition also documenting related activities, keeping track of our communication, and also taking notes when needed.|
-|Asher|  <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.>  |
+|Asher|  For this sprint I had the goal of integrating our local geojson files into the frontend as a first-pass at wiring the app to use real data rather than the mock data we used before. I successfully completed this goal and went beyond to find ways we can build on this to complete the implementation in future sprints.  |
 |Eric| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
   
 ### Communication
