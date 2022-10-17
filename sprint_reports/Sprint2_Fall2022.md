@@ -55,7 +55,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 |Khalil|  I had a goal from the beginning for this milestone: prepare and parse the data so we can show it on our front-end. which I was able to achieve.  Our sponsor agreed that this would be a good step forward, which pushed me to focus on it even more  |
 |Brian| During this milestone I mainly did work around getting everything together for the report. In addition also documenting related activities, keeping track of our communication, and also taking notes when needed.|
 |Asher|  For this sprint I had the goal of integrating our local geojson files into the frontend as a first-pass at wiring the app to use real data rather than the mock data we used before. I successfully completed this goal and went beyond to find ways we can build on this to complete the implementation in future sprints.  |
-|Eric| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Eric| This sprint was a little bit slow for me, was pretty sick for the last week or so. I continued some research from last sprint, it was good to finally get back in touch with our sponsor, hopefully we will have a little more guidance/direction going forward. |
   
 ### Communication
 
