@@ -98,16 +98,16 @@ You can access our team's working prototype at [this site](https://astronomalies
 [Link to Recording](https://wsu.zoom.us/recording)
 
 #### What went well
-  - Item 1 <i>(Be as concrete and specific as possible)</i>
-  - Item 2 <i>(Be as concrete and specific as possible)</i>
-  - Item x <i>(Be as concrete and specific as possible)</i>
+  - We were able to meet with our mentor and this has helped us stay back on track like before, almost seamlessly which is good since it makes it as if we never did stop working on the project.
+  - The development of the front end went well with Asher and Khalil working together more specifically with geojson files and Asher working with the constraints of mapbox due to the amount of data being handled.
+  - Having a better meeting schedule, before we didn't know exactly on whether we would find a schedule for meetings but now we do have consistent schedule.
   
  #### What we'd like to improve
-  - Item 1 <i>(Be as concrete and specific as possible)</i>
-  - Item 2 <i>(Be as concrete and specific as possible)</i>
-  - Item x <i>(Be as concrete and specific as possible)</i>
+  - Working on documentation has been something of a struggle within previous sprints so perhaps making this a priority would be a good idea as it can help us understand what has been done and if anyone outside of the project decided to take a look it would make it easy to understand what has been done.
+  - Revisioning is also something that we thought about as it can make it better for the next team that would take on this project or if someone within Microsoft would participate in the project or implement what we have. It would be a good idea to keep everything understandable or at the minimum documented.
+  - Being mindful of the way we do things, so keeping ourselves mindful of this would make our project be clearer and easier to navigate to make modifications or if using for a reference, but also establishing a good point for another team leave off of.
   
 #### Changes we plan to implement in next sprint period
-  - Item 1 <i>(Express in concrete, observable, measurable terms so that progress can be assessed)</i>
-  - Item 2 <i>(Express in concrete, observable, measurable terms so that progress can be assessed)</i>
-  - Item x <i>(Express in concrete, observable, measurable terms so that progress can be assessed)</i>
+  - Be more aware of our documentation, keeping track of our tasks
+  - Having normal meetings again
+  - Keeping improvements on the frontend and backend
