@@ -37,10 +37,10 @@ You can access our team's working prototype at [this site](https://astronomalies
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/74">Issue #74</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/74"> N/A </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>13<br>13</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i>  </i>Successfully parsed the data. but our file sizes are a bit too big</td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/63">Issue #00</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/64"> PR00 </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i>  </i></td>
+    <td><a href=https://github.com/wsu-cpts421-sp22/microsoft/issues/75>Issue #75</a></td><td><a href=https://github.com/wsu-cpts421-sp22/microsoft/issues/75> N/A </a></td><td> 0<br/>0</td><td>3<br/>3</td><td>0<br>0</td><td>3<br/>3</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> Completed Sprint Report</td>
     </tr>
     </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>49<br>49</b></td><td><b>18.6<br>18.6</b></td><td><b>21<br>21</b></td><td><b>8.6<br>8.6</b></td><td>2.6<b><br>2.6</b></td><td><b>11.6<br>11.6</b></td><td colspan="2"><i>
+    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>00<br>00</b></td><td><b>18.6<br>18.6</b></td><td><b>21<br>21</b></td><td><b>8.6<br>8.6</b></td><td>2.6<b><br>2.6</b></td><td><b>11.6<br>11.6</b></td><td colspan="2"><i>
     </tr>
   </tbody>
 </table>
