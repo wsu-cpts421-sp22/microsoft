@@ -28,19 +28,19 @@ You can access our team's working prototype at [this site](https://astronomalies
     </tr>
   </thead> 
   <tbody>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/63">Issue #00</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/64"> PR00 </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i>  </i></td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/72">Issue #72</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/72"> N/A </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>5<br>5</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i>  </i>chose to go with geoJSON files</td>
+    </tr>
+    </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/73">Issue #73</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/73"> N/A </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>3<br>3</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i>  </i>got help from teammates and was able to deploy succesffully</td>
+    </tr>
+    </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/74">Issue #74</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/74"> N/A </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>13<br>13</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i>  </i>Successfully parsed the data. but our file sizes are a bit too big</td>
     </tr>
     </tr>
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/63">Issue #00</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/64"> PR00 </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i>  </i></td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/63">Issue #00</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/64"> PR00 </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i>  </i></td>
-    </tr>
-    </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/63">Issue #00</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/64"> PR00 </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>0<br>0</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i>  </i></td>
-    </tr>
-    </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>49<br>49</b></td><td><b>18.6<br>18.6</b></td><td><b>7.6<br>7.6</b></td><td><b>8.6<br>8.6</b></td><td>2.6<b><br>2.6</b></td><td><b>11.6<br>11.6</b></td><td colspan="2"><i>
+    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>49<br>49</b></td><td><b>18.6<br>18.6</b></td><td><b>21<br>21</b></td><td><b>8.6<br>8.6</b></td><td>2.6<b><br>2.6</b></td><td><b>11.6<br>11.6</b></td><td colspan="2"><i>
     </tr>
   </tbody>
 </table>
@@ -49,7 +49,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 | Team Member | Contribution Reflection Statement |
 |-------------|-------------------|
 |Michael| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.>  |
-|Khalil|  <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
+|Khalil|  I had a goal from the beginning for this milestone: prepare and parse the data so we can show it on our front-end. which I was able to achieve.  Our sponsor agreed that this would be a good step forward, which pushed me to focus on it even more  |
 |Brian| During this milestone I mainly did work around getting everything together for the report. In addition also documenting related activities, keeping track of our communication, and also taking notes when needed.|
 |Asher|  <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.>  |
 |Eric| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.> |
