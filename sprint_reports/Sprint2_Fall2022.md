@@ -1,7 +1,7 @@
 # Report for Sprint 2: *Astronomalies*
 
 ## Link to Sprint Summary Video
-[Summary video link](https://youtube.com/)
+[Summary video link]([https://youtube.com/](https://youtu.be/rwt7P8hmdiA))
 
 ## Link to Online Communication Channel
 [MS Teams](https://teams.microsoft.com/l/team/19%3acBEWDZpUinwRPPDffLwMUeqQfQMBbxADWyOBt_X5q3w1%40thread.tacv2/conversations?groupId=87fda352-e01f-4122-957a-6c68b129334b&tenantId=b52be471-f7f1-47b4-a879-0c799bb53db5)
@@ -51,7 +51,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 #### Reflection Statements
 | Team Member | Contribution Reflection Statement |
 |-------------|-------------------|
-|Michael| <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.>  |
+|Michael| For this milestone I wanted to work on making it more clear what our project was so that users stumbling across it could figure out what it was. I think that this sprint was a big success for me and our team. |
 |Khalil|  I had a goal from the beginning for this milestone: prepare and parse the data so we can show it on our front-end. which I was able to achieve.  Our sponsor agreed that this would be a good step forward, which pushed me to focus on it even more  |
 |Brian| During this milestone I mainly did work around getting everything together for the report. In addition also documenting related activities, keeping track of our communication, and also taking notes when needed.|
 |Asher|  <*Required*: The points and hours data are unlikely to tell the whole story about your contribution. Write a brief statement explaining and reflecting on your contribution to this milestone.>  |
@@ -98,7 +98,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 </table>
 
 ### Retrospective
-[Link to Recording](https://emailwsu.sharepoint.com/teams/2022.PULLM.CptS.421.423-MicrosoftV2/Shared%20Documents/Recordings/Microsoft%20V2-20221016_190915-Meeting%20Recording.mp4?web=1)
+[Link to Recording](https://youtu.be/rwt7P8hmdiA)
 
 #### What went well
   - We were able to meet with our mentor and this has helped us stay back on track like before, almost seamlessly which is good since it makes it as if we never did stop working on the project.
