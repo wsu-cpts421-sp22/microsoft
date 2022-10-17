@@ -95,7 +95,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 </table>
 
 ### Retrospective
-[Link to Recording](https://wsu.zoom.us/recording)
+[Link to Recording](https://emailwsu.sharepoint.com/teams/2022.PULLM.CptS.421.423-MicrosoftV2/Shared%20Documents/Recordings/Microsoft%20V2-20221016_190915-Meeting%20Recording.mp4?web=1)
 
 #### What went well
   - We were able to meet with our mentor and this has helped us stay back on track like before, almost seamlessly which is good since it makes it as if we never did stop working on the project.
@@ -105,7 +105,7 @@ You can access our team's working prototype at [this site](https://astronomalies
  #### What we'd like to improve
   - Working on documentation has been something of a struggle within previous sprints so perhaps making this a priority would be a good idea as it can help us understand what has been done and if anyone outside of the project decided to take a look it would make it easy to understand what has been done.
   - Revisioning is also something that we thought about as it can make it better for the next team that would take on this project or if someone within Microsoft would participate in the project or implement what we have. It would be a good idea to keep everything understandable or at the minimum documented.
-  - Being mindful of the way we do things, so keeping ourselves mindful of this would make our project be clearer and easier to navigate to make modifications or if using for a reference, but also establishing a good point for another team leave off of.
+  - Being mindful of the way we do things, so keeping ourselves mindful of this would make our project be clearer and easier to navigate 
   
 #### Changes we plan to implement in next sprint period
   - Be more aware of our documentation, keeping track of our tasks
