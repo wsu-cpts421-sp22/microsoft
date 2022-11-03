@@ -98,7 +98,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 </table>
 
 ### Retrospective
-[Link to Recording](https://youtu.be/rwt7P8hmdiA)
+[Link to Recording](https://emailwsu.sharepoint.com/teams/2022.PULLM.CptS.421.423-MicrosoftV2/Shared%20Documents/Recordings/Microsoft%20V2-20221016_190915-Meeting%20Recording.mp4?web=1) 
 
 #### What went well
   - We were able to meet with our mentor and this has helped us stay back on track like before, almost seamlessly which is good since it makes it as if we never did stop working on the project.
