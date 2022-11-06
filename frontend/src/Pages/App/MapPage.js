@@ -34,6 +34,7 @@ const styles = {
     paddingLeft: '21px',
     paddingRight: '21px',
     zIndex: '1',
+    paddingBottom: '30px',
   },
   innerDateContainer: {
       display: 'flex',
@@ -199,7 +200,7 @@ const MapPage = (props) => {
       {showCharts && <ChartsDemoModal closeCharts={(() => setShowCharts(false))} />}
       <div style={styles.mapContainer} ref={mapContainer}></div>
       <Navigation gas={gas} setGas={setGas} openCharts={(() => setShowCharts(true))} />
-      <MapMeta lat={lat} lng={lng} zoom={zoom} />
+      <MapMeta lat={lat} lng={lng} zoom={zoom}/>
 
       <div style={styles.dateContainer}>
             <LocalizationProvider dateAdapter={AdapterDateFns}>
