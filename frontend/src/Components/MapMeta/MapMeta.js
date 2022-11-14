@@ -13,6 +13,7 @@ const styles = {
         color: 'white',
         backgroundColor: appGrey,
         opacity: '0.81',
+        marginBottom:'25px',
     },
 };
 
