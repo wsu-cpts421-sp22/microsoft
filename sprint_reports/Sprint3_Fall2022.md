@@ -50,7 +50,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 |-------------|-------------------|
 |Michael| I think that this sprint went very well as I was able to complete all of my assigned tasks. I think that I could be better on assigning merge requests earlier to give people more time to review them. This sprint seemed to be a step back for communication. Our sponsor meeting got cancelled because of veterans day which gave us challenges when trying to complete our sprint. Our next meeting also falls on a holiday so we need to make sure to schedule a different time to meet.|
 |Khalil| I was able to complete my assigned task without much trouble. Throughout it I thought of different apporaches to the problems and I have ideas on how we can improve the project if further optimizations are needed. Overall, it went well, but we still can improve on communication within the team so we can contribute to the project accordingly|
-|Brian| Brian's Reflect |
+|Brian| Communication for this sprint could have definitely improved I personally feel that my communication could have been better for this sprint. I got my tasks done for this sprint without much trouble this sprint overall could have gone better in regards to my effort but I anticipate to make this my goal for our next sprint. |
 |Asher| Asher's Reflect |
 |Eric| Eric's Reflect |
   
