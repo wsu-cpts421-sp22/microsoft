@@ -52,6 +52,9 @@ You can access our team's working prototype at [this site](https://astronomalies
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/77">Issue #77</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/89"> PR89 </a></td><td>3<br/>3</td><td>3<br/>3</td><td>0<br>0</td>0<td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i>  </i> Add MapBox Attribution</td>
     </tr>
     </tr>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/90">Issue #90</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/86"> N/A </a></td><td>0<br/>0</td><td>0<br/>0</td><td>0<br>0</td>0<td>0<br/>0</td><td>0<br/>0</td><td>3<br/>3</td><td>75</td><td><i>  </i> ML Research</td>
+    </tr>
+    </tr>
     <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>48<br>46</b></td><td><b>24<br>24</b></td><td><b>15<br>13</b></td><td><b>4<br>4</b></td><td>4<b><br>4</b></td><td><b>0<br>0</b></td><td colspan="2"><i>
     </tr>
   </tbody>
@@ -64,7 +67,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 |Khalil| I was able to complete my assigned task without much trouble. Throughout it I thought of different apporaches to the problems and I have ideas on how we can improve the project if further optimizations are needed. Overall, it went well, but we still can improve on communication within the team so we can contribute to the project accordingly|
 |Brian| Communication for this sprint could have definitely improved I personally feel that my communication could have been better for this sprint. I got my tasks done for this sprint without much trouble this sprint overall could have gone better in regards to my effort but I anticipate to make this my goal for our next sprint. |
 |Asher| Asher's Reflect |
-|Eric| Eric's Reflect |
+|Eric| I felt we as a team we were a bit disconnected this sprint. We did miss a meeting with our sponsor since it was veterans day which may have lead to a bit of lack in direction. With that next sprint I would like to contribute more, I think it would be a good goal for us as a team to set up a meeting with just and go over specifically what we want to accomplish and assign tasks to each of us accordingly so we are all contributing. |
   
 ### Communication
 
