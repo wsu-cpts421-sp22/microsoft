@@ -5,6 +5,7 @@ import mapboxGl from 'mapbox-gl';
 import { useEffect, useRef, useState } from 'react';
 import { Navigation } from '../../Components/FooterNavigation/Navigation';
 import { LoadingModal } from '../../Components/LoadingModal/LoadingModal';
+import { InfoScreen } from '../../Components/InfoScreen/InfoScreen';
 import { MapMeta } from '../../Components/MapMeta/MapMeta';
 import { useDateRange } from '../../Components/UseDateRange/UseDateRange';
 import { SupportedGasses } from '../../Constants/SupportedGasses';
@@ -196,6 +197,7 @@ const MapPage = (props) => {
 
   return (
     <div style={styles.container}>
+      <InfoScreen>  </InfoScreen>
       {loading && <LoadingModal />}
       {showCharts && <ChartsDemoModal closeCharts={(() => setShowCharts(false))} />}
       <div style={styles.mapContainer} ref={mapContainer}></div>
