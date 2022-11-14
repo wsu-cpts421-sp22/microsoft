@@ -1,7 +1,7 @@
 # Report for Sprint 3: *Astronomalies*
 
 ## Link to Sprint Summary Video
-[Summary video link](https://youtu.be/rwt7P8hmdiA)
+[Summary video link](https://youtu.be/SmNyvi9t2Ao)
 
 ## Link to Online Communication Channel
 [MS Teams](https://teams.microsoft.com/l/team/19%3acBEWDZpUinwRPPDffLwMUeqQfQMBbxADWyOBt_X5q3w1%40thread.tacv2/conversations?groupId=87fda352-e01f-4122-957a-6c68b129334b&tenantId=b52be471-f7f1-47b4-a879-0c799bb53db5)
@@ -48,7 +48,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 #### Reflection Statements
 | Team Member | Contribution Reflection Statement |
 |-------------|-------------------|
-|Michael| Michel's Reflect |
+|Michael| I think that this sprint went very well as I was able to complete all of my assigned tasks. I think that I could be better on assigning merge requests earlier to give people more time to review them. This sprint seemed to be a step back for communication. Our sponsor meeting got cancelled because of veterans day which gave us challenges when trying to complete our sprint. Our next meeting also falls on a holiday so we need to make sure to schedule a different time to meet.|
 |Khalil| I was able to complete my assigned task without much trouble. Throughout it I thought of different apporaches to the problems and I have ideas on how we can improve the project if further optimizations are needed. Overall, it went well, but we still can improve on communication within the team so we can contribute to the project accordingly|
 |Brian| Brian's Reflect |
 |Asher| Asher's Reflect |
