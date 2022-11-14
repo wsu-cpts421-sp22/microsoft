@@ -71,9 +71,9 @@ You can access our team's working prototype at [this site](https://astronomalies
   </thead> 
   <tbody>
     <tr>
-      <td>10/14/22</td><td>25</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
+      <td>10/28/22</td><td>15</td><td></td><td></td><td>&check;</td><td>&check;</td><td></td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>25</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>15</b></td><td><b></b></td><td><b></b></td><td><b>1</b></td><td><b>1</b></td><td><b></b></td>
     </tr>
   </tbody>
 </table>
@@ -90,9 +90,12 @@ You can access our team's working prototype at [this site](https://astronomalies
   </thead> 
   <tbody>
     <tr>
-      <td>10/6/22</td><td>15</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
+      <td>11/3/22</td><td>7</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td></td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>15</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td>
+    <tr>
+      <td>11/13/22</td><td>27</td><td>&check;</td><td>&check;</td><td></td><td>&check;</td><td></td>
+    </tr>
+    <tr><td align="right"><b>Totals:</b></td><td><b>34</b></td><td><b>2</b></td><td><b>2</b></td><td><b>1</b></td><td><b>2</b></td><td><b></b></td>
     </tr>
   </tbody>
 </table>
