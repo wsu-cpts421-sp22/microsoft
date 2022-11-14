@@ -40,7 +40,7 @@ You can access our team's working prototype at [this site](https://astronomalies
     <td><a href=https://github.com/wsu-cpts421-sp22/microsoft/issues/86>Issue #86</a></td><td><a href=https://github.com/wsu-cpts421-sp22/microsoft/issues/86> N/A </a></td><td> 0<br/>0</td><td>2<br/>2</td><td>2<br>2</td><td>1<br/>1</td><td>2<br/>2</td><td>1<br/>1</td><td>100</td><td><i> </i> Completed Sprint Video</td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/88">Issue #88</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/89"> PR89 </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>8<br>6</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>75</td><td><i>  </i>Thought of better ways to optimize our file sizes. by utilizing a longitude/latitude grid lines.</td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/81">Issue #81</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/89"> N/A </a></td><td>3<br/>3</td><td>3<br/>3</td><td><br></td><td><br/></td><td>0<br/>0</td><td>0<br/>0</td><td>75</td><td><i>  </i> Remove Django Backend</td>
     </tr>
     </tr>
     <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>00<br>00</b></td><td><b>5<br>5</b></td><td><b>13<br>11</b></td><td><b>4<br>4</b></td><td>13<b><br>13</b></td><td><b>1<br>1</b></td><td colspan="2"><i>
