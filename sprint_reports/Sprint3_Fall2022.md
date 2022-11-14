@@ -54,7 +54,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 |Michael| Michel's Reflect |
 |Khalil| Khalil's Reflect |
 |Brian| Brian's Reflect |
-|Asher| Asjer's Reflect |
+|Asher| Asher's Reflect |
 |Eric| Eric's Reflect |
   
 ### Communication
@@ -98,19 +98,19 @@ You can access our team's working prototype at [this site](https://astronomalies
 </table>
 
 ### Retrospective
-[Link to Recording](https://emailwsu.sharepoint.com/teams/2022.PULLM.CptS.421.423-MicrosoftV2/Shared%20Documents/Recordings/Microsoft%20V2-20221016_190915-Meeting%20Recording.mp4?web=1) 
+[Link to Recording](https://emailwsu.sharepoint.com/teams/2022.PULLM.CptS.421.423-MicrosoftV2/Shared%20Documents/Recordings/Microsoft%20V2-20221113_161647-Meeting%20Recording.mp4?web=1) 
 
 #### What went well
-  - We were able to meet with our mentor and this has helped us stay back on track like before, almost seamlessly which is good since it makes it as if we never did stop working on the project.
-  - The development of the front end went well with Asher and Khalil working together more specifically with geojson files and Asher working with the constraints of mapbox due to the amount of data being handled.
-  - Having a better meeting schedule, before we didn't know exactly on whether we would find a schedule for meetings but now we do have consistent schedule.
+  - Our current HeatMap was improved throughout this sprint. Visual effects and the fusion within the HeatMap improved.
+  - Data manipulation for this sprint went well. Optimization for data to be split can also be done if needed to be done and Khalil had a currated idea for this 
+  - Finding solutions to many of our issues whether that may be within our workflow or in our website. 
   
  #### What we'd like to improve
-  - Working on documentation has been something of a struggle within previous sprints so perhaps making this a priority would be a good idea as it can help us understand what has been done and if anyone outside of the project decided to take a look it would make it easy to understand what has been done.
-  - Revisioning is also something that we thought about as it can make it better for the next team that would take on this project or if someone within Microsoft would participate in the project or implement what we have. It would be a good idea to keep everything understandable or at the minimum documented.
-  - Being mindful of the way we do things, so keeping ourselves mindful of this would make our project be clearer and easier to navigate 
+  - Communication for this particular sprint was set back and improvements can be done. Working on our communication is something we anticipate dedicating time to resolve and prevent communication issues we dealt with for this sprint.
+  - While retrivieng information within the data went well organization for our current strcuture is something that can be improved and allocating time for this is a focus for this upcoming sprint.
+  - Contribution within team members is soemthing that we felt can be improved upon and having a discussion on what effort is being put forth within each sprint is something we would like to touch on.
   
 #### Changes we plan to implement in next sprint period
-  - Be more aware of our documentation, keeping track of our tasks
-  - Having normal meetings again
-  - Keeping improvements on the frontend and backend
+  - Organizing our current structure
+  - Improving Team Communication
+  - Having a Discussion about Team Contributions
