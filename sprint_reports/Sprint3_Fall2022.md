@@ -28,10 +28,10 @@ You can access our team's working prototype at [this site](https://astronomalies
     </tr>
   </thead> 
   <tbody>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/72">Issue #72</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/72"> N/A </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>5<br>5</td><td>0<br/>0</td><td>2<br/>2</td><td>0<br/>0</td><td>100</td><td><i>  </i>chose to go with geoJSON files</td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/87">Issue #87</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/89"> PR89 </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>5<br>5</td><td>0<br/>0</td><td>2<br/>2</td><td>0<br/>0</td><td>100</td><td><i>  </i>Made the files hourly, so its faster to load into the front end</td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/73">Issue #73</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/73"> N/A </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>3<br>3</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i>  </i>got help from teammates and was able to deploy succesffully</td>
+    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/88">Issue #88</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/89"> PR89 </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>8<br>6</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>75</td><td><i>  </i>Thought of better ways to optimize our file sizes. by utilizing a longitude/latitude grid lines.</td>
     </tr>
     </tr>
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/74">Issue #74</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/74"> N/A </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>13<br>13</td><td>0<br/>0</td><td>9<br/>9</td><td>0<br/>0</td><td>100</td><td><i>  </i>Successfully parsed the data. but our file sizes are a bit too big</td>
@@ -43,7 +43,7 @@ You can access our team's working prototype at [this site](https://astronomalies
     <td><a href=https://github.com/wsu-cpts421-sp22/microsoft/issues/76>Issue #76</a></td><td><a href=https://github.com/wsu-cpts421-sp22/microsoft/issues/76> N/A </a></td><td> 0<br/>0</td><td>2<br/>2</td><td>2<br>2</td><td>1<br/>1</td><td>2<br/>2</td><td>1<br/>1</td><td>100</td><td><i> </i> Completed Sprint Video</td>
     </tr>
     </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>00<br>00</b></td><td><b>5<br>5</b></td><td><b>21<br>21</b></td><td><b>4<br>4</b></td><td>13<b><br>13</b></td><td><b>1<br>1</b></td><td colspan="2"><i>
+    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>00<br>00</b></td><td><b>5<br>5</b></td><td><b>13<br>11</b></td><td><b>4<br>4</b></td><td>13<b><br>13</b></td><td><b>1<br>1</b></td><td colspan="2"><i>
     </tr>
   </tbody>
 </table>
@@ -52,7 +52,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 | Team Member | Contribution Reflection Statement |
 |-------------|-------------------|
 |Michael| Michel's Reflect |
-|Khalil| Khalil's Reflect |
+|Khalil| I was able to complete my assigned task without much trouble. Throughout it I thought of different apporaches to the problems and I have ideas on how we can improve the project if further optimizations are needed. Overall, it went well, but we still can improve on communication within the team so we can contribute to the project accordingly|
 |Brian| Brian's Reflect |
 |Asher| Asher's Reflect |
 |Eric| Eric's Reflect |
