@@ -34,9 +34,6 @@ You can access our team's working prototype at [this site](https://astronomalies
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/88">Issue #88</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/pull/89"> PR89 </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>8<br>6</td><td>0<br/>0</td><td>0<br/>0</td><td>0<br/>0</td><td>75</td><td><i>  </i>Thought of better ways to optimize our file sizes. by utilizing a longitude/latitude grid lines.</td>
     </tr>
     </tr>
-    <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/74">Issue #74</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/74"> N/A </a></td><td> 0<br/>0</td><td>0<br/>0</td><td>13<br>13</td><td>0<br/>0</td><td>9<br/>9</td><td>0<br/>0</td><td>100</td><td><i>  </i>Successfully parsed the data. but our file sizes are a bit too big</td>
-    </tr>
-    </tr>
     <td><a href=https://github.com/wsu-cpts421-sp22/microsoft/issues/75>Issue #75</a></td><td><a href=https://github.com/wsu-cpts421-sp22/microsoft/issues/75> N/A </a></td><td> 0<br/>0</td><td>3<br/>3</td><td>0<br>0</td><td>3<br/>3</td><td>0<br/>0</td><td>0<br/>0</td><td>100</td><td><i> </i> Completed Sprint Report</td>
     </tr>
     </tr>
