@@ -55,7 +55,7 @@ You can access our team's working prototype at [this site](https://astronomalies
     <td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/90">Issue #90</a></td><td><a href="https://github.com/wsu-cpts421-sp22/microsoft/issues/86"> N/A </a></td><td>0<br/>0</td><td>0<br/>0</td><td>0<br>0</td>0<td>0<br/>0</td><td>0<br/>0</td><td>3<br/>3</td><td>75</td><td><i>  </i> ML Research</td>
     </tr>
     </tr>
-    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>48<br>46</b></td><td><b>24<br>24</b></td><td><b>15<br>13</b></td><td><b>4<br>4</b></td><td>4<b><br>4</b></td><td><b>0<br>0</b></td><td colspan="2"><i>
+    <tr><td colspan="2" align="right"><b>Totals:</b></td><td><b>48<br>46</b></td><td><b>24<br>24</b></td><td><b>15<br>13</b></td><td><b>4<br>4</b></td><td>4<b><br>4</b></td><td><b>3<br>3</b></td><td colspan="2"><i>
     </tr>
   </tbody>
 </table>
