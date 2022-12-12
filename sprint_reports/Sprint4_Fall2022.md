@@ -63,11 +63,11 @@ You can access our team's working prototype at [this site](https://astronomalies
 #### Reflection Statements
 | Team Member | Contribution Reflection Statement |
 |-------------|-------------------|
-|Michael| I think that this sprint went very well as I was able to complete all of my assigned tasks. I think that I could be better on assigning merge requests earlier to give people more time to review them. This sprint seemed to be a step back for communication. Our sponsor meeting got cancelled because of veterans day which gave us challenges when trying to complete our sprint. Our next meeting also falls on a holiday so we need to make sure to schedule a different time to meet.|
-|Khalil| I was able to complete my assigned task without much trouble. Throughout it I thought of different apporaches to the problems and I have ideas on how we can improve the project if further optimizations are needed. Overall, it went well, but we still can improve on communication within the team so we can contribute to the project accordingly|
-|Brian| Communication for this sprint could have definitely improved I personally feel that my communication could have been better for this sprint. I got my tasks done for this sprint without much trouble this sprint overall could have gone better in regards to my effort but I anticipate to make this my goal for our next sprint. |
-|Asher| Asher's Reflect |
-|Eric| I felt we as a team we were a bit disconnected this sprint. We did miss a meeting with our sponsor since it was veterans day which may have lead to a bit of lack in direction. With that next sprint I would like to contribute more, I think it would be a good goal for us as a team to set up a meeting with just and go over specifically what we want to accomplish and assign tasks to each of us accordingly so we are all contributing. |
+|Michael| *Statement Goes Here* |
+|Khalil| *Statement Goes Here* |
+|Brian| *Statement Goes Here* |
+|Asher| *Statement Goes Here* |
+|Eric| *Statement Goes Here* |
   
 ### Communication
 
@@ -83,9 +83,9 @@ You can access our team's working prototype at [this site](https://astronomalies
   </thead> 
   <tbody>
     <tr>
-      <td>10/28/22</td><td>15</td><td></td><td></td><td>&check;</td><td>&check;</td><td></td>
+      <td>11/18/22</td><td>15</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>15</b></td><td><b></b></td><td><b></b></td><td><b>1</b></td><td><b>1</b></td><td><b></b></td>
+    <tr><td align="right"><b>Totals:</b></td><td><b>15</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td>
     </tr>
   </tbody>
 </table>
@@ -102,12 +102,15 @@ You can access our team's working prototype at [this site](https://astronomalies
   </thead> 
   <tbody>
     <tr>
-      <td>11/3/22</td><td>7</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td></td>
+      <td>12/1/22</td><td>10</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
     </tr>
     <tr>
-      <td>11/13/22</td><td>27</td><td>&check;</td><td>&check;</td><td></td><td>&check;</td><td></td>
+      <td>12/5/22</td><td>28</td><td>&check;</td><td>&check;</td><td></td><td>&check;</td><td>&check;</td>
     </tr>
-    <tr><td align="right"><b>Totals:</b></td><td><b>34</b></td><td><b>2</b></td><td><b>2</b></td><td><b>1</b></td><td><b>2</b></td><td><b></b></td>
+    <tr>
+      <td>12/11/22</td><td>34</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td><td>&check;</td>
+    </tr>
+    <tr><td align="right"><b>Totals:</b></td><td><b>72</b></td><td><b>3</b></td><td><b>3</b></td><td><b>2</b></td><td><b>2</b></td><td><b>2</b></td>
     </tr>
   </tbody>
 </table>
@@ -116,16 +119,16 @@ You can access our team's working prototype at [this site](https://astronomalies
 [Link to Recording](https://emailwsu.sharepoint.com/teams/2022.PULLM.CptS.421.423-MicrosoftV2/Shared%20Documents/Recordings/Microsoft%20V2-20221211_161143-Meeting%20Recording.mp4?web=1) 
 
 #### What went well
-  - Our current HeatMap was improved throughout this sprint. Visual effects and the fusion within the HeatMap improved.
-  - Data manipulation for this sprint went well. Optimization for data to be split can also be done if needed to be done and Khalil had a currated idea for this 
-  - Finding solutions to many of our issues whether that may be within our workflow or in our website. 
+  - Our poster design went well and we were able to get third place
+  - Communication and progress overall for this sprint was good this sprint and an improvement from last sprint
+  - Presentations went well and our final deliverable was executed nicely
   
  #### What we'd like to improve
-  - Communication for this particular sprint was set back and improvements can be done. Working on our communication is something we anticipate dedicating time to resolve and prevent communication issues we dealt with for this sprint.
-  - While retrivieng information within the data went well organization for our current strcuture is something that can be improved and allocating time for this is a focus for this upcoming sprint.
-  - Contribution within team members is soemthing that we felt can be improved upon and having a discussion on what effort is being put forth within each sprint is something we would like to touch on.
+  - Time management was difficult this sprint and if we had a remaining sprint we would have liked to make a little more progress for next sprint with finals week coming it was difficult for us to allocate enough time to the sprint
+  - Merging together the front and back end more, allowing for more features to be present in Mapbox.
+  - Making our project more organized so the next team taking on our project would be able to have a cleaner entrance into what we have done.
   
 #### Changes we plan to implement in next sprint period
-  - Organizing our current structure
-  - Improving Team Communication
-  - Having a Discussion about Team Contributions
+  - Thank our sponsor for all the help they given us
+  - Making any changes needed before finishing off the semester
+  - Communicate to our sponsor how our project went
