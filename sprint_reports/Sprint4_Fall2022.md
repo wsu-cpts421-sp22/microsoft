@@ -1,7 +1,7 @@
 # Report for Sprint 4: *Astronomalies*
 
 ## Link to Sprint Summary Video
-[Summary video link](https://youtu.be/SmNyvi9t2Ao)
+[Summary video link](https://youtu.be/_zap_O0tkjM)
 
 ## Link to Online Communication Channel
 [MS Teams](https://teams.microsoft.com/l/team/19%3acBEWDZpUinwRPPDffLwMUeqQfQMBbxADWyOBt_X5q3w1%40thread.tacv2/conversations?groupId=87fda352-e01f-4122-957a-6c68b129334b&tenantId=b52be471-f7f1-47b4-a879-0c799bb53db5)
@@ -63,7 +63,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 #### Reflection Statements
 | Team Member | Contribution Reflection Statement |
 |-------------|-------------------|
-|Michael| *Statement Goes Here* |
+|Michael| I feel like this sprint was alright for us we got the work done that we needed to but we didn't get done some of our goals. I think that we all did our part and I am happy. |
 |Khalil| *Statement Goes Here* |
 |Brian| *Statement Goes Here* |
 |Asher| *Statement Goes Here* |
