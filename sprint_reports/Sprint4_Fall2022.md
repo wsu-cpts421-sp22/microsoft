@@ -1,4 +1,4 @@
-# Report for Sprint 3: *Astronomalies*
+# Report for Sprint 4: *Astronomalies*
 
 ## Link to Sprint Summary Video
 [Summary video link](https://youtu.be/SmNyvi9t2Ao)
@@ -113,7 +113,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 </table>
 
 ### Retrospective
-[Link to Recording](https://emailwsu.sharepoint.com/teams/2022.PULLM.CptS.421.423-MicrosoftV2/Shared%20Documents/Recordings/Microsoft%20V2-20221113_161647-Meeting%20Recording.mp4?web=1) 
+[Link to Recording](https://emailwsu.sharepoint.com/teams/2022.PULLM.CptS.421.423-MicrosoftV2/Shared%20Documents/Recordings/Microsoft%20V2-20221211_161143-Meeting%20Recording.mp4?web=1) 
 
 #### What went well
   - Our current HeatMap was improved throughout this sprint. Visual effects and the fusion within the HeatMap improved.
