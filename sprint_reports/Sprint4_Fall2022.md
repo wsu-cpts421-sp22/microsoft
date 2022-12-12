@@ -67,7 +67,7 @@ You can access our team's working prototype at [this site](https://astronomalies
 |Khalil| *Statement Goes Here* |
 |Brian| *Statement Goes Here* |
 |Asher| *Statement Goes Here* |
-|Eric| *Statement Goes Here* |
+|Eric| This sprint was not hugely productive for me, I did not manage my time very well between this class and finals/other projects. I unfortunately was not able to successfully get the london data formatted into a geoJSON for the heatmap. |
   
 ### Communication
 
